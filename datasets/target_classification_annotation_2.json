@@ -1,0 +1,2212 @@
+[
+    {
+        "text": "The UAE is taking steps to increase the efficiency of energy consumption through regulatory measures, pricing signals as well as technology deployment. The country has set a federal target to reduce energy consumption by 40% for the year 2050. In support of achieving this target, the Emirates have set ambitious plans for reducing energy consumption and energy efficiency initiatives are being implemented across demand sectors. Locally-relevant green building regulations and rating schemes for new buildings have been adopted across UAE\u2019s Emirates.",
+        "inputs": {
+            "text": "The UAE is taking steps to increase the efficiency of energy consumption through regulatory measures, pricing signals as well as technology deployment. The country has set a federal target to reduce energy consumption by 40% for the year 2050. In support of achieving this target, the Emirates have set ambitious plans for reducing energy consumption and energy efficiency initiatives are being implemented across demand sectors. Locally-relevant green building regulations and rating schemes for new buildings have been adopted across UAE\u2019s Emirates."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.546
+            ],
+            [
+                "TARGET",
+                0.454
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "04071340-2656-4c62-a775-390d67f0e697",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355335,
+        "metrics": {
+            "text_length": 551
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Manufacturing and construction. 16.30. 9%. Residential energy use. 6.22. 4%. Fishing. 5.70. 3%. Domestic shipping. 5.51. 3%. Commercial and institutional. 1.39. 1%. Total. 174.35. 100%. Source: Samoa\u2019s National GHG Inventory, 2007. Appendix C: Review of First NDC (2015).",
+        "inputs": {
+            "text": "Manufacturing and construction. 16.30. 9%. Residential energy use. 6.22. 4%. Fishing. 5.70. 3%. Domestic shipping. 5.51. 3%. Commercial and institutional. 1.39. 1%. Total. 174.35. 100%. Source: Samoa\u2019s National GHG Inventory, 2007. Appendix C: Review of First NDC (2015)."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.591
+            ],
+            [
+                "NEGATIVE",
+                0.409
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": null,
+        "annotation_agent": null,
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "0830098b-fa51-4139-9029-7f12cffd7f1d",
+        "metadata": {
+            "file_name": "WSM-second_ndc-EN.html",
+            "country_code": "WSM",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Default",
+        "event_timestamp": 1698049355344,
+        "metrics": {
+            "text_length": 271
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The country is developing a package of data-driven fishing techniques and methods reforms and will achieve 30% protection of marine ecosystems by 2030 (currently 27%), to reduce emissions and increase sequestration in territorial waters and in the Exclusive Economic Zone of the country. Other measures to increase carbon storage in the oceans, such as the protection of whales and sharks (the top predator that plays a key role in maintaining the balance of marine ecosystems, which maintains and promotes carbon sequestration) will also be implemented as scientific knowledge becomes available. 6.",
+        "inputs": {
+            "text": "The country is developing a package of data-driven fishing techniques and methods reforms and will achieve 30% protection of marine ecosystems by 2030 (currently 27%), to reduce emissions and increase sequestration in territorial waters and in the Exclusive Economic Zone of the country. Other measures to increase carbon storage in the oceans, such as the protection of whales and sharks (the top predator that plays a key role in maintaining the balance of marine ecosystems, which maintains and promotes carbon sequestration) will also be implemented as scientific knowledge becomes available. 6."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.551
+            ],
+            [
+                "TARGET",
+                0.449
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "097ffc7d-a764-4825-b072-f4803eaac707",
+        "metadata": {
+            "file_name": "GAB-second_ndc-EN.html",
+            "country_code": "GAB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355338,
+        "metrics": {
+            "text_length": 599
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Abu Dhabi\u2019s Building Retrofit program, similarly, targets retrofitting of government buildings and will be rolled out in due course to nongovernment buildings. Dubai has set a target to retrofit 30,000 buildings in the Emirate by 2030. Ras Al Khaimah\u2019s Retrofit Program aims to retrofit 3,000 buildings by 2040. Periodic tariff reforms for residential, commercial and industrial power consumption are being introduced across Emirates to advance cost-reflective pricing and encourage energy conservation.",
+        "inputs": {
+            "text": "Abu Dhabi\u2019s Building Retrofit program, similarly, targets retrofitting of government buildings and will be rolled out in due course to nongovernment buildings. Dubai has set a target to retrofit 30,000 buildings in the Emirate by 2030. Ras Al Khaimah\u2019s Retrofit Program aims to retrofit 3,000 buildings by 2040. Periodic tariff reforms for residential, commercial and industrial power consumption are being introduced across Emirates to advance cost-reflective pricing and encourage energy conservation."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.531
+            ],
+            [
+                "NEGATIVE",
+                0.469
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "0a669b1d-e4a1-4393-8f21-8ad832a5fec1",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355335,
+        "metrics": {
+            "text_length": 503
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "DNPM, NFA,. Cocoa. Board,. Spice Board,. Provincial. gov-ernments. in the. Momase. region. Ongoing -. 2025. 340. European Union. Support committed. Priority Sector: Health. By 2030, 100% of the population benefit from introduced health measures to respond to malaria and other climate-sensitive diseases in PNG. Action or Activity. Indicator. Status. Lead. Implementing. Agencies. Supporting. Agencies. Time Frame. Budget (USD). Funding Source. (Existing/Potential). Other Support. Improve vector control. measures, with a priority. of all households having. access to a long-lasting. insecticidal net (LLIN).",
+        "inputs": {
+            "text": "DNPM, NFA,. Cocoa. Board,. Spice Board,. Provincial. gov-ernments. in the. Momase. region. Ongoing -. 2025. 340. European Union. Support committed. Priority Sector: Health. By 2030, 100% of the population benefit from introduced health measures to respond to malaria and other climate-sensitive diseases in PNG. Action or Activity. Indicator. Status. Lead. Implementing. Agencies. Supporting. Agencies. Time Frame. Budget (USD). Funding Source. (Existing/Potential). Other Support. Improve vector control. measures, with a priority. of all households having. access to a long-lasting. insecticidal net (LLIN)."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.604
+            ],
+            [
+                "NEGATIVE",
+                0.396
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "0b412b67-7056-402e-acbc-b6e754fde7c4",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355339,
+        "metrics": {
+            "text_length": 609
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Conditionality: With national effort it is intended to increase the attention to vulnerable groups in case of disasters and/or emergencies up to 50% of the target and 100% of the target with international cooperation. Description: In this goal, it is projected to increase coverage from 33% to 50% (211,000 families) of agricultural insurance in attention to the number of families, whose crops were affected by various adverse weather events (flood, drought, frost, hailstorm, among others), in addition to the implementation of comprehensive actions for risk management and adaptation to Climate Change.",
+        "inputs": {
+            "text": "Conditionality: With national effort it is intended to increase the attention to vulnerable groups in case of disasters and/or emergencies up to 50% of the target and 100% of the target with international cooperation. Description: In this goal, it is projected to increase coverage from 33% to 50% (211,000 families) of agricultural insurance in attention to the number of families, whose crops were affected by various adverse weather events (flood, drought, frost, hailstorm, among others), in addition to the implementation of comprehensive actions for risk management and adaptation to Climate Change."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.509
+            ],
+            [
+                "TARGET",
+                0.491
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "0be587b9-b878-436f-87b7-2c6bec2f33b8",
+        "metadata": {
+            "file_name": "BOL-second_ndc-EN.html",
+            "country_code": "BOL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355337,
+        "metrics": {
+            "text_length": 605
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "(a) BAU scenario projections of emissions, sequestration and net trend emissions from the FAT sector (Forestry) and other sectors; and, (b) controlled and trend emissions for the FAT, energy and agriculture sectors (all sectors) from a 2005 base up to 2050 compared to the tropical deforestation average (\u201cTropical Deforestation Average\u201d, TDA). (Note that the FAT \u2013 Maitrise line (green dotted line) includes Forest + Other Land for 2005 -2015, Forest only 2020-2050). The FAT-BAU line includes Drill only 2005-2050.",
+        "inputs": {
+            "text": "(a) BAU scenario projections of emissions, sequestration and net trend emissions from the FAT sector (Forestry) and other sectors; and, (b) controlled and trend emissions for the FAT, energy and agriculture sectors (all sectors) from a 2005 base up to 2050 compared to the tropical deforestation average (\u201cTropical Deforestation Average\u201d, TDA). (Note that the FAT \u2013 Maitrise line (green dotted line) includes Forest + Other Land for 2005 -2015, Forest only 2020-2050). The FAT-BAU line includes Drill only 2005-2050."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.578
+            ],
+            [
+                "TARGET",
+                0.422
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "12962f2d-6a95-4b92-8ed5-d2973df59cff",
+        "metadata": {
+            "file_name": "GAB-second_ndc-EN.html",
+            "country_code": "GAB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355337,
+        "metrics": {
+            "text_length": 516
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The target of maintaining Tonga\u2019s stocks of fish and other marine species has been derived from the 2018 JNAP 2 target of resilient fisheries and marine and coastal ecosystems. The target of 30% of land in Tonga being utilized for agro-forestry or forestry is envisioned to be achieved by planting of one million trees by 2023, among others.",
+        "inputs": {
+            "text": "The target of maintaining Tonga\u2019s stocks of fish and other marine species has been derived from the 2018 JNAP 2 target of resilient fisheries and marine and coastal ecosystems. The target of 30% of land in Tonga being utilized for agro-forestry or forestry is envisioned to be achieved by planting of one million trees by 2023, among others."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.531
+            ],
+            [
+                "NEGATIVE",
+                0.469
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "1615464f-e1e4-45dc-8b8c-c77038e5b75c",
+        "metadata": {
+            "file_name": "TON-second_ndc-EN.html",
+            "country_code": "TON",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355343,
+        "metrics": {
+            "text_length": 341
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "2% efficiency gain per year for newly purchased light duty vehicles. Limit growth in grid-connected residential electricity end-use to 1% per year on average for the period 2021-2030 by adopting minimum energy performance standards for appliances, lighting, and electrical equipment. 3.1.2 Overview of measures and requirements to achieve targets. First, generating 70% of electricity from renewable sources requires considerable expansion of generation capacity from solar and wind as well as a substantial increase in battery storage and upgrading of the existing network infrastructure.",
+        "inputs": {
+            "text": "2% efficiency gain per year for newly purchased light duty vehicles. Limit growth in grid-connected residential electricity end-use to 1% per year on average for the period 2021-2030 by adopting minimum energy performance standards for appliances, lighting, and electrical equipment. 3.1.2 Overview of measures and requirements to achieve targets. First, generating 70% of electricity from renewable sources requires considerable expansion of generation capacity from solar and wind as well as a substantial increase in battery storage and upgrading of the existing network infrastructure."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.525
+            ],
+            [
+                "TARGET",
+                0.475
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "16a7e752-d6d4-412d-8bd2-e853da496e64",
+        "metadata": {
+            "file_name": "TON-second_ndc-EN.html",
+            "country_code": "TON",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355343,
+        "metrics": {
+            "text_length": 589
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The BAU scenario represents the conditions without mitigation measures and presents historical data up to 2005, and projected data from 2010 to 2050. It is important to note that for the FAT sector, the projections for the two scenarios (Controlled and BAU) only took into account the data from the \"Forest\" - as presented in the FRL - and did not include data from Other Land Uses10, as presented in the greenhouse gas inventory (GGI).",
+        "inputs": {
+            "text": "The BAU scenario represents the conditions without mitigation measures and presents historical data up to 2005, and projected data from 2010 to 2050. It is important to note that for the FAT sector, the projections for the two scenarios (Controlled and BAU) only took into account the data from the \"Forest\" - as presented in the FRL - and did not include data from Other Land Uses10, as presented in the greenhouse gas inventory (GGI)."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.505
+            ],
+            [
+                "TARGET",
+                0.495
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "1cd8011f-0b6a-4075-bf4a-39454f843adf",
+        "metadata": {
+            "file_name": "GAB-second_ndc-EN.html",
+            "country_code": "GAB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355337,
+        "metrics": {
+            "text_length": 436
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "However, within this sectorization, Bolivia\u2019s first NDC presented ambitious and clear goals focused on achieving a transition process in the national electricity generation matrix towards a system strongly based on renewable energies. In this sense, a review of the current state of the electricity sector confirms that the country has made representative progress with respect to the mitigation goals and objectives that were proposed, with an installed capacity of 3150 MW by 2020 and a participation of 38% of renewable energies and 4.2% of alternative energies in relation to the electricity produced/consumed at the national level5, representing progress in the conditions of 2015 towards the goals proposed in the first NDC.",
+        "inputs": {
+            "text": "However, within this sectorization, Bolivia\u2019s first NDC presented ambitious and clear goals focused on achieving a transition process in the national electricity generation matrix towards a system strongly based on renewable energies. In this sense, a review of the current state of the electricity sector confirms that the country has made representative progress with respect to the mitigation goals and objectives that were proposed, with an installed capacity of 3150 MW by 2020 and a participation of 38% of renewable energies and 4.2% of alternative energies in relation to the electricity produced/consumed at the national level5, representing progress in the conditions of 2015 towards the goals proposed in the first NDC."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.515
+            ],
+            [
+                "TARGET",
+                0.485
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "20573b81-44c4-470b-98ee-d83b309350ad",
+        "metadata": {
+            "file_name": "BOL-second_ndc-EN.html",
+            "country_code": "BOL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355336,
+        "metrics": {
+            "text_length": 730
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Quantifiable information on the reference indicators, their values in the reference year(s), base year(s), reference period(s) or other starting point(s), and, as applicable, in the target year. The 2030 projected emission level is 6,617 GgCO2e. (c). For strategies, plans and actions referred to in Article 4, paragraph 6, of the Paris Agreement, or polices and measures as components of nationally determined contributions where paragraph 1(b) above is not applicable, Parties to provide other relevant information. Not applicable. (d).",
+        "inputs": {
+            "text": "Quantifiable information on the reference indicators, their values in the reference year(s), base year(s), reference period(s) or other starting point(s), and, as applicable, in the target year. The 2030 projected emission level is 6,617 GgCO2e. (c). For strategies, plans and actions referred to in Article 4, paragraph 6, of the Paris Agreement, or polices and measures as components of nationally determined contributions where paragraph 1(b) above is not applicable, Parties to provide other relevant information. Not applicable. (d)."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.978
+            ],
+            [
+                "NEGATIVE",
+                0.022
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "216d476e-600c-47e1-8da4-075fda28b820",
+        "metadata": {
+            "file_name": "GMB-second_ndc-EN.html",
+            "country_code": "GMB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355344,
+        "metrics": {
+            "text_length": 538
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The NAPA (South Sudan Ministry of Environment, 2016) aims to promote climate-smart agricultural practices and enable implementation of projects identified in the agriculture master plan. Both the NDS (South Sudan Ministry of Finance and Planning, 2018) and South Sudan\u2019s Vision 2040 (2011) aim to enhance agricultural productivity to increase food security in the country. The three-year target for the NDS was to increase food security to 80 percent by 2021. Fisheries.",
+        "inputs": {
+            "text": "The NAPA (South Sudan Ministry of Environment, 2016) aims to promote climate-smart agricultural practices and enable implementation of projects identified in the agriculture master plan. Both the NDS (South Sudan Ministry of Finance and Planning, 2018) and South Sudan\u2019s Vision 2040 (2011) aim to enhance agricultural productivity to increase food security in the country. The three-year target for the NDS was to increase food security to 80 percent by 2021. Fisheries."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.589
+            ],
+            [
+                "NEGATIVE",
+                0.411
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "231ee700-59ce-41b3-bd1a-d3f00089869c",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355340,
+        "metrics": {
+            "text_length": 470
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "These global ambitions are broadly aligned with the social, economic, environmental and risk reduction aspirations that Nepal has set for itself in its new constitution. (b) Best practices and experience related to the preparation of the NDC;. See above 4 (a, i). (c) Other contextual aspirations and priorities acknowledged when joining the Paris Agreement;. The provision in the Paris Agreement to limit global average temperature rise to 1.5\u00b0C results in lower risks for Nepal when compared to 2\u00b0C or higher temperatures.",
+        "inputs": {
+            "text": "These global ambitions are broadly aligned with the social, economic, environmental and risk reduction aspirations that Nepal has set for itself in its new constitution. (b) Best practices and experience related to the preparation of the NDC;. See above 4 (a, i). (c) Other contextual aspirations and priorities acknowledged when joining the Paris Agreement;. The provision in the Paris Agreement to limit global average temperature rise to 1.5\u00b0C results in lower risks for Nepal when compared to 2\u00b0C or higher temperatures."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.593
+            ],
+            [
+                "TARGET",
+                0.407
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "2468a801-2685-489d-a217-4c5e0baf8367",
+        "metadata": {
+            "file_name": "NPL-second_ndc-EN.html",
+            "country_code": "NPL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355338,
+        "metrics": {
+            "text_length": 524
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Description: This measure seeks to define the total size of the national electricity system in the long term, based on installed capacity, so that this value can be used as a reference for the macro conditions of the electricity system that are expected to be achieved, as well as to set a quantitative basis of analysis for the relative goals of participation of generation plants. A new evaluation of the national context and development expectations allows us to estimate that by 2030 the installed capacity of the interconnected electricity system will reach 5,028 MW.",
+        "inputs": {
+            "text": "Description: This measure seeks to define the total size of the national electricity system in the long term, based on installed capacity, so that this value can be used as a reference for the macro conditions of the electricity system that are expected to be achieved, as well as to set a quantitative basis of analysis for the relative goals of participation of generation plants. A new evaluation of the national context and development expectations allows us to estimate that by 2030 the installed capacity of the interconnected electricity system will reach 5,028 MW."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.525
+            ],
+            [
+                "TARGET",
+                0.475
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "34aac1e9-c70b-42f4-87a6-a9d87f1b74d1",
+        "metadata": {
+            "file_name": "BOL-second_ndc-EN.html",
+            "country_code": "BOL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355336,
+        "metrics": {
+            "text_length": 572
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "At the same time, emphasis is placed on the development of hydraulic energy, with an objective of 260 Mega Watts (MW) of installed capacity by 2030 and 630 MW by 2050. This makes it possible to reduce dependence energy to fossil fuels and to optimize Gabon s strong hydraulic potential. The development of solar photovoltaic, in the planning phase, must be able to be supported by international donors.",
+        "inputs": {
+            "text": "At the same time, emphasis is placed on the development of hydraulic energy, with an objective of 260 Mega Watts (MW) of installed capacity by 2030 and 630 MW by 2050. This makes it possible to reduce dependence energy to fossil fuels and to optimize Gabon s strong hydraulic potential. The development of solar photovoltaic, in the planning phase, must be able to be supported by international donors."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.603
+            ],
+            [
+                "TARGET",
+                0.397
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "38a08891-128e-42ff-88df-0edbe60110a9",
+        "metadata": {
+            "file_name": "GAB-second_ndc-EN.html",
+            "country_code": "GAB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355337,
+        "metrics": {
+            "text_length": 402
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "By 2030, upgrade watershed health and vitality in at least 20 districts to a higher condition category. By 2030, create an inventory of wetlands in Nepal and sustainably manage vulnerable wetlands. By 2025, enhance the sink capacity of the landuse sector by instituting the Forest Development Fund (FDF) for compensation of plantations and forest restoration. Increase growing stock including Mean Annual Increment in Tarai, Hills and Mountains. Afforest/reforest viable public and private lands, including agroforestry.",
+        "inputs": {
+            "text": "By 2030, upgrade watershed health and vitality in at least 20 districts to a higher condition category. By 2030, create an inventory of wetlands in Nepal and sustainably manage vulnerable wetlands. By 2025, enhance the sink capacity of the landuse sector by instituting the Forest Development Fund (FDF) for compensation of plantations and forest restoration. Increase growing stock including Mean Annual Increment in Tarai, Hills and Mountains. Afforest/reforest viable public and private lands, including agroforestry."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.599
+            ],
+            [
+                "TARGET",
+                0.401
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "393240a3-a4a8-42e1-af5c-ced06e977549",
+        "metadata": {
+            "file_name": "NPL-second_ndc-EN.html",
+            "country_code": "NPL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355338,
+        "metrics": {
+            "text_length": 520
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The 1,200 km-long Etihad Rail network is being built in stages, with the 264 km Stage One route operational for freight movement since January 2016. A single train journey on this line removes approximately 300 trucks from the road, reducing CO2 emissions by 70-80%. Stage Two of Etihad Rail is slated to begin operations in 2023 and will extend over 605 km. On completion, the network will link all major UAE industrial ports and trading centers.",
+        "inputs": {
+            "text": "The 1,200 km-long Etihad Rail network is being built in stages, with the 264 km Stage One route operational for freight movement since January 2016. A single train journey on this line removes approximately 300 trucks from the road, reducing CO2 emissions by 70-80%. Stage Two of Etihad Rail is slated to begin operations in 2023 and will extend over 605 km. On completion, the network will link all major UAE industrial ports and trading centers."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.566
+            ],
+            [
+                "NEGATIVE",
+                0.434
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "397ba048-3078-4225-859e-116795d244c6",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355335,
+        "metrics": {
+            "text_length": 447
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Conditionality: Regarding the proposed goal, 40% will be national effort and the remaining 60% will be conditional. Description: This measure seeks to promote an integral and sustainable management of forests, considering the importance of their environmental functions, the cultural, ecological and biological importance for the species, as well as for the local and national economy; in addition, to promote the integral development of territories with forest cover.",
+        "inputs": {
+            "text": "Conditionality: Regarding the proposed goal, 40% will be national effort and the remaining 60% will be conditional. Description: This measure seeks to promote an integral and sustainable management of forests, considering the importance of their environmental functions, the cultural, ecological and biological importance for the species, as well as for the local and national economy; in addition, to promote the integral development of territories with forest cover."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.53
+            ],
+            [
+                "NEGATIVE",
+                0.47
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "3aeb8c7d-bc7e-414a-b127-9885e7d95a18",
+        "metadata": {
+            "file_name": "BOL-second_ndc-EN.html",
+            "country_code": "BOL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355336,
+        "metrics": {
+            "text_length": 468
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "commits to submitting an Adaptation Communication to the UNFCCC by 2020 at the latest;. commits to a gender-responsive and human rights-based approach in all NDCrelated planning, programming and implementation; and. commits to using the latest Intergovernmental Panel on Climate Change (IPCC) guidelines in the future. Information to facilitate clarity, transparency and understanding. Parameter. >. Information. Timeframe / periods for implementation. Start year: 2020. End year: 2025. Start year: 2025. End year: 2030. Type of commitment. Absolute economy-wide emission reduction target (excluding LULUCF).",
+        "inputs": {
+            "text": "commits to submitting an Adaptation Communication to the UNFCCC by 2020 at the latest;. commits to a gender-responsive and human rights-based approach in all NDCrelated planning, programming and implementation; and. commits to using the latest Intergovernmental Panel on Climate Change (IPCC) guidelines in the future. Information to facilitate clarity, transparency and understanding. Parameter. >. Information. Timeframe / periods for implementation. Start year: 2020. End year: 2025. Start year: 2025. End year: 2030. Type of commitment. Absolute economy-wide emission reduction target (excluding LULUCF)."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.551
+            ],
+            [
+                "NEGATIVE",
+                0.449
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "3c54dbde-e948-44e7-8dc1-a8eafc168a4c",
+        "metadata": {
+            "file_name": "MHL-second_ndc-EN.html",
+            "country_code": "MHL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355338,
+        "metrics": {
+            "text_length": 608
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The NDC2 reaffirms and, even, strengthens this commitment. The Gambia is an LDC. Under the Lima Call for Action, LDCs are not required to set quantified or quantifiable targets. However, The Gambia\u2019s NDC2 includes quantified and quantifiable commitments that exceed The Gambia\u2019s fair share. (b). Fairness considerations, including reflecting on equity. Fairness considerations were addressed in 4(c) and 6(a). (c). How the Party has addressed Article 4, paragraph 3, of the Paris Agreement.",
+        "inputs": {
+            "text": "The NDC2 reaffirms and, even, strengthens this commitment. The Gambia is an LDC. Under the Lima Call for Action, LDCs are not required to set quantified or quantifiable targets. However, The Gambia\u2019s NDC2 includes quantified and quantifiable commitments that exceed The Gambia\u2019s fair share. (b). Fairness considerations, including reflecting on equity. Fairness considerations were addressed in 4(c) and 6(a). (c). How the Party has addressed Article 4, paragraph 3, of the Paris Agreement."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.577
+            ],
+            [
+                "NEGATIVE",
+                0.423
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "3e35937a-2c19-4ecd-a0be-7be387478ebe",
+        "metadata": {
+            "file_name": "GMB-second_ndc-EN.html",
+            "country_code": "GMB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355338,
+        "metrics": {
+            "text_length": 490
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "In addition, regulations and incentive schemes, have been put in place to power a larger share of road transport with electricity. The Dubai Green Mobility Strategy targets a 2% share of electric and hybrid cars in Dubai\u2019s road fleet by 2030, and a 30% share in Dubai\u2019s government-procured vehicles by the same year. The country has seen a rapid expansion of charging infrastructure, and plans are afoot to further increase the number of vehicle charging stations across Emirates.",
+        "inputs": {
+            "text": "In addition, regulations and incentive schemes, have been put in place to power a larger share of road transport with electricity. The Dubai Green Mobility Strategy targets a 2% share of electric and hybrid cars in Dubai\u2019s road fleet by 2030, and a 30% share in Dubai\u2019s government-procured vehicles by the same year. The country has seen a rapid expansion of charging infrastructure, and plans are afoot to further increase the number of vehicle charging stations across Emirates."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.559
+            ],
+            [
+                "NEGATIVE",
+                0.441
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "44386c83-87da-4e43-b25f-2887ca46e06d",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355335,
+        "metrics": {
+            "text_length": 480
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Figures for 2025 and 2030 are projections based on a controlled emissions scenario. The commitment in this NDC covers the 2030 horizon. The figures for the period 2035 \u2013 2050 are indicative. Figure 4. Actual (striated columns) and projected emissions and removals from the TSF, energy and agriculture sectors for the period 2005-2050 and net emissions (or, net removals)12. Gabon s vast forests, covering 88% of the territory, represent an important carbon stock and a permanent and continuous carbon sink.",
+        "inputs": {
+            "text": "Figures for 2025 and 2030 are projections based on a controlled emissions scenario. The commitment in this NDC covers the 2030 horizon. The figures for the period 2035 \u2013 2050 are indicative. Figure 4. Actual (striated columns) and projected emissions and removals from the TSF, energy and agriculture sectors for the period 2005-2050 and net emissions (or, net removals)12. Gabon s vast forests, covering 88% of the territory, represent an important carbon stock and a permanent and continuous carbon sink."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.533
+            ],
+            [
+                "NEGATIVE",
+                0.467
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "47772333-d526-4736-b759-1260c596086d",
+        "metadata": {
+            "file_name": "GAB-second_ndc-EN.html",
+            "country_code": "GAB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355337,
+        "metrics": {
+            "text_length": 506
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "In the oil sector, the country has benefited from 372 million dollars for the reduction of gas flaring at the initiative (GGFR - \"Global Gas Flaring Reduction\") of the World Bank after having adopted in November 2015 a national reduction plan flaring and associated gas upgrading. In the electricity sector, the NDC highlights the development of hydroelectricity which should make it possible to cover 80% of production in 2025, the remaining 20% &ZeroWidthSpace;&ZeroWidthSpace;being covered by gas and other renewable energies.",
+        "inputs": {
+            "text": "In the oil sector, the country has benefited from 372 million dollars for the reduction of gas flaring at the initiative (GGFR - \"Global Gas Flaring Reduction\") of the World Bank after having adopted in November 2015 a national reduction plan flaring and associated gas upgrading. In the electricity sector, the NDC highlights the development of hydroelectricity which should make it possible to cover 80% of production in 2025, the remaining 20% &ZeroWidthSpace;&ZeroWidthSpace;being covered by gas and other renewable energies."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.578
+            ],
+            [
+                "NEGATIVE",
+                0.422
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "4b8e9a39-d97b-4dfc-afe7-4525cc996e15",
+        "metadata": {
+            "file_name": "GAB-second_ndc-EN.html",
+            "country_code": "GAB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355338,
+        "metrics": {
+            "text_length": 529
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "This enabling activity will result in the full assessment of mitigation potentials in the industries sector and facilitate the participation of the private sector in low emission development. e) Low Emission Development Strategy for Surface Transport. Transport emissions are projected to increase by a factor of three by 2050 as compared to 2020 levels under business-as-usual scenario. The LEDS for Surface Transport12 was developed to provide strategic intervention options for transport and mobility and are categorised as follows:.",
+        "inputs": {
+            "text": "This enabling activity will result in the full assessment of mitigation potentials in the industries sector and facilitate the participation of the private sector in low emission development. e) Low Emission Development Strategy for Surface Transport. Transport emissions are projected to increase by a factor of three by 2050 as compared to 2020 levels under business-as-usual scenario. The LEDS for Surface Transport12 was developed to provide strategic intervention options for transport and mobility and are categorised as follows:."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.564
+            ],
+            [
+                "NEGATIVE",
+                0.436
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "4c576521-dd52-4d9f-b53e-45e9ab6af578",
+        "metadata": {
+            "file_name": "BTN-second_ndc-EN.html",
+            "country_code": "BTN",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355337,
+        "metrics": {
+            "text_length": 536
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Overall Objective: From the net GHG source from 2015 levels to net GHG sink by 2030. Action or Activity. Indicator. Status. Lead. Implementing. Agencies. Supporting. Agencies. Time Frame. Budget (USD). Funding Source. (Existing/Potential). Other Support. Sustainable Land-Use and. Development Planning. Policy and regulatory. framework for sustainable land use. and development planning are. developed and implemented across. concerned sectors. The Department of. Lands and Physical. Planning (DLPP). have taken steps. to develop a draft. Sustainable Land. Use Policy (SLUP) that. is currently under. consultation and.",
+        "inputs": {
+            "text": "Overall Objective: From the net GHG source from 2015 levels to net GHG sink by 2030. Action or Activity. Indicator. Status. Lead. Implementing. Agencies. Supporting. Agencies. Time Frame. Budget (USD). Funding Source. (Existing/Potential). Other Support. Sustainable Land-Use and. Development Planning. Policy and regulatory. framework for sustainable land use. and development planning are. developed and implemented across. concerned sectors. The Department of. Lands and Physical. Planning (DLPP). have taken steps. to develop a draft. Sustainable Land. Use Policy (SLUP) that. is currently under. consultation and."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.557
+            ],
+            [
+                "NEGATIVE",
+                0.443
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "4f949477-cfc3-4176-aac9-11799e5cd806",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355339,
+        "metrics": {
+            "text_length": 618
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Samoa therefore also used the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories as they better reflected national circumstances. Samoa is currently updating its GHG inventory, following the 2006 IPCC Guidelines and the 2019 Refinement to the 2006 IPCC Guidelines, using the Tier 1 approach and applying default emission factors. ii) Whether the baseline scenario is static (will be fixed over the period) or dynamic. The baseline scenario target is static (fixed over the period). Any changes will be accounted for qualitatively.",
+        "inputs": {
+            "text": "Samoa therefore also used the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories as they better reflected national circumstances. Samoa is currently updating its GHG inventory, following the 2006 IPCC Guidelines and the 2019 Refinement to the 2006 IPCC Guidelines, using the Tier 1 approach and applying default emission factors. ii) Whether the baseline scenario is static (will be fixed over the period) or dynamic. The baseline scenario target is static (fixed over the period). Any changes will be accounted for qualitatively."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.52
+            ],
+            [
+                "TARGET",
+                0.48
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "51befb4c-f864-4da0-a143-e38d25933437",
+        "metadata": {
+            "file_name": "WSM-second_ndc-EN.html",
+            "country_code": "WSM",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355343,
+        "metrics": {
+            "text_length": 548
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "1. 13.74. 1. 0.01%. 1. 1.23. 1. 2.92. 1. No. Neutral. 1. 13. 15. Private households. 0.19. 1. 1.09. 1. 0.00%. 1. 0.16. 1. 0.00. 1. Yes. Neutral. 1. 13. 16. Petroleum, chemical and. non-metallic mineral products. 18.09. 1. 8.42. 1. 4.80%. 1. 3.75. 1. 1.75. 1. No. Non-green growth. 0. 12. 17. Mining and quarrying. 2.93. 1. 0.54. 1. 0.01%. 1. 0.02. 1. 2.02. 1. No. Non-green growth. 0. 12. * Normalized values. 6 NDC SECTOR LINKAGES WITH IPCC SECTOR CLASSIFICATION. 7 SECTORAL STRATEGIES.",
+        "inputs": {
+            "text": "1. 13.74. 1. 0.01%. 1. 1.23. 1. 2.92. 1. No. Neutral. 1. 13. 15. Private households. 0.19. 1. 1.09. 1. 0.00%. 1. 0.16. 1. 0.00. 1. Yes. Neutral. 1. 13. 16. Petroleum, chemical and. non-metallic mineral products. 18.09. 1. 8.42. 1. 4.80%. 1. 3.75. 1. 1.75. 1. No. Non-green growth. 0. 12. 17. Mining and quarrying. 2.93. 1. 0.54. 1. 0.01%. 1. 0.02. 1. 2.02. 1. No. Non-green growth. 0. 12. * Normalized values. 6 NDC SECTOR LINKAGES WITH IPCC SECTOR CLASSIFICATION. 7 SECTORAL STRATEGIES."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.566
+            ],
+            [
+                "TARGET",
+                0.434
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": null,
+        "annotation_agent": null,
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "5743d0dc-fa53-4413-82c9-fc3a3413d52b",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Default",
+        "event_timestamp": 1698049355340,
+        "metrics": {
+            "text_length": 487
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "c) In the case of the strategies, plans and measures referred to in Article 4, paragraph 6 of the Paris Agreement or of the policies and measures that integrate the contributions determined at the national level when paragraph 1 b) above does not apply, the Parties shall provide other relevant information;. Does not apply to the Argentine Republic. d) Target relative to the benchmark indicator, expressed numerically, for example, as a percentage or amount of the reduction;.",
+        "inputs": {
+            "text": "c) In the case of the strategies, plans and measures referred to in Article 4, paragraph 6 of the Paris Agreement or of the policies and measures that integrate the contributions determined at the national level when paragraph 1 b) above does not apply, the Parties shall provide other relevant information;. Does not apply to the Argentine Republic. d) Target relative to the benchmark indicator, expressed numerically, for example, as a percentage or amount of the reduction;."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.547
+            ],
+            [
+                "TARGET",
+                0.453
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "5aeb1600-91cd-4c88-969b-1e03482201e4",
+        "metadata": {
+            "file_name": "ARG-second_ndc-EN_TR.html",
+            "country_code": "ARG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355336,
+        "metrics": {
+            "text_length": 478
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Thus, the emission reduction scenario is based on the following:. Over the next 10 years, six hydropower plants that have been planned by the government, will be installed: Fula hydro (1,800 MW), and small hydropower plants in Shukoli (210 MW), Beden (400 MW), Lakki (210 MW), Sue (12 MW) and Kentti (3.5 MW).",
+        "inputs": {
+            "text": "Thus, the emission reduction scenario is based on the following:. Over the next 10 years, six hydropower plants that have been planned by the government, will be installed: Fula hydro (1,800 MW), and small hydropower plants in Shukoli (210 MW), Beden (400 MW), Lakki (210 MW), Sue (12 MW) and Kentti (3.5 MW)."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.565
+            ],
+            [
+                "NEGATIVE",
+                0.435
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "5b5f963e-0643-416a-a412-9cb55da222da",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355343,
+        "metrics": {
+            "text_length": 309
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The way in which the contribution determined at the national level contributes to the achievement of the objective of the Convention, stated in its article 2:. a. The way in which the contribution determined at the national level contributes to the achievement of the objective of the Convention, set forth in its Article 2;.",
+        "inputs": {
+            "text": "The way in which the contribution determined at the national level contributes to the achievement of the objective of the Convention, stated in its article 2:. a. The way in which the contribution determined at the national level contributes to the achievement of the objective of the Convention, set forth in its Article 2;."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.552
+            ],
+            [
+                "TARGET",
+                0.448
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "5d479083-b24e-4666-a3f7-8bd506d98bde",
+        "metadata": {
+            "file_name": "ARG-second_ndc-EN_TR.html",
+            "country_code": "ARG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355336,
+        "metrics": {
+            "text_length": 325
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Nevertheless, knowing that logging, even with the selective logging practices applied in Gabon with a harvest of 2 trees/ha over a rotation period of 25 years, is detrimental to the most sensitive part of forest biodiversity humid tropics, Gabon has joined the 30x30 program of the High Ambition Coalition for Nature and Peoples, aiming to transform 30% of terrestrial and aquatic ecosystems into protected areas by 2030. The country s vision is to develop landscapes where the areas most rich in biodiversity are protected, surrounded by a mosaic of forest concessions, community forests and rural areas. 2.",
+        "inputs": {
+            "text": "Nevertheless, knowing that logging, even with the selective logging practices applied in Gabon with a harvest of 2 trees/ha over a rotation period of 25 years, is detrimental to the most sensitive part of forest biodiversity humid tropics, Gabon has joined the 30x30 program of the High Ambition Coalition for Nature and Peoples, aiming to transform 30% of terrestrial and aquatic ecosystems into protected areas by 2030. The country s vision is to develop landscapes where the areas most rich in biodiversity are protected, surrounded by a mosaic of forest concessions, community forests and rural areas. 2."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.526
+            ],
+            [
+                "TARGET",
+                0.474
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "6355a3e9-a0e4-40af-bf25-5acecf48ca33",
+        "metadata": {
+            "file_name": "GAB-second_ndc-EN.html",
+            "country_code": "GAB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355337,
+        "metrics": {
+            "text_length": 608
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The findings will aid development of emission inventories and inform coastal management. Annually, mangroves sequester 1,073,696 tonnes of CO2 in the UAE. To enhance natural carbon sinks, the UAE intends to plant 30 million mangrove seedlings by 2030.",
+        "inputs": {
+            "text": "The findings will aid development of emission inventories and inform coastal management. Annually, mangroves sequester 1,073,696 tonnes of CO2 in the UAE. To enhance natural carbon sinks, the UAE intends to plant 30 million mangrove seedlings by 2030."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.578
+            ],
+            [
+                "TARGET",
+                0.422
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "6c89ca7b-6f47-4ef8-b78c-7d51fbd193ba",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355335,
+        "metrics": {
+            "text_length": 251
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Sea level rise combined with extreme weather events is likely to contribute to an increase in inundation of low-lying areas. Estimates suggest that flooding and inundation will affect approximately 4% to 14% of the total population of Tongatapu (Rawat et al. 2016). Even under a medium emissions scenario,4 considerable parts of Tongatapu are projected to be inundated by 2090. In particular, this would affect Nuku\u2019alofa and the northern coasts of Tongatapu (Climate Central 2020).",
+        "inputs": {
+            "text": "Sea level rise combined with extreme weather events is likely to contribute to an increase in inundation of low-lying areas. Estimates suggest that flooding and inundation will affect approximately 4% to 14% of the total population of Tongatapu (Rawat et al. 2016). Even under a medium emissions scenario,4 considerable parts of Tongatapu are projected to be inundated by 2090. In particular, this would affect Nuku\u2019alofa and the northern coasts of Tongatapu (Climate Central 2020)."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.555
+            ],
+            [
+                "TARGET",
+                0.445
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "6cd9f3fe-991e-4606-ba25-f319ad9ee48c",
+        "metadata": {
+            "file_name": "TON-second_ndc-EN.html",
+            "country_code": "TON",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355343,
+        "metrics": {
+            "text_length": 482
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Yet to be implemented. Medium to long term. Promote alternative livelihood options. South Sudan will promote small-scale aquaculture to improve food security by empowering 10% of the farmers across the country by 2030. Develop an action plan to implement the National Aquaculture Development Strategy. The strategy is yet to be enacted in Parliament. Short term. Enhance the supply chain for the fisheries industry.",
+        "inputs": {
+            "text": "Yet to be implemented. Medium to long term. Promote alternative livelihood options. South Sudan will promote small-scale aquaculture to improve food security by empowering 10% of the farmers across the country by 2030. Develop an action plan to implement the National Aquaculture Development Strategy. The strategy is yet to be enacted in Parliament. Short term. Enhance the supply chain for the fisheries industry."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.581
+            ],
+            [
+                "NEGATIVE",
+                0.419
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "6da55169-7681-4525-b017-74ea7a0e2d9f",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355340,
+        "metrics": {
+            "text_length": 415
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Investments of $1.5 million will be made for biogas-based power generation, which translates to 5.7 MW (at the cost of $30 per megawatt-hour; International Energy Agency, 2020) by 2030. In the emission reduction scenario, the share of renewable energy will be more than 92 percent including hydropower plants (but 3 percent excluding hydropower) by 2030. Greenhouse emissions in 2030 are estimated to be 0.53 million tCO2e, 92 percent lower than the baseline scenario (Figure 32, page 95).",
+        "inputs": {
+            "text": "Investments of $1.5 million will be made for biogas-based power generation, which translates to 5.7 MW (at the cost of $30 per megawatt-hour; International Energy Agency, 2020) by 2030. In the emission reduction scenario, the share of renewable energy will be more than 92 percent including hydropower plants (but 3 percent excluding hydropower) by 2030. Greenhouse emissions in 2030 are estimated to be 0.53 million tCO2e, 92 percent lower than the baseline scenario (Figure 32, page 95)."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.975
+            ],
+            [
+                "NEGATIVE",
+                0.025
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "6ee96a40-d5c9-4fda-b5e4-14b76127fc2a",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355344,
+        "metrics": {
+            "text_length": 489
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "By 2030, the planned renewable power plants and energy efficiencies will reduce emissions from electricity generation. Over the following years, the Sultanate of Oman will continue working to lay the ground for expanding the scope of its NDC coverage to other categories of anthropogenic emissions. d. Mitigation co-benefits resulting from Parties  adaptation actions and/or economic diversification plans, including description of specific projects, measures and initiatives of Parties  adaptation actions and/or economic diversification plans. Please refer to section II.",
+        "inputs": {
+            "text": "By 2030, the planned renewable power plants and energy efficiencies will reduce emissions from electricity generation. Over the following years, the Sultanate of Oman will continue working to lay the ground for expanding the scope of its NDC coverage to other categories of anthropogenic emissions. d. Mitigation co-benefits resulting from Parties  adaptation actions and/or economic diversification plans, including description of specific projects, measures and initiatives of Parties  adaptation actions and/or economic diversification plans. Please refer to section II."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.543
+            ],
+            [
+                "NEGATIVE",
+                0.457
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "7289081c-afb0-4367-b7ac-2d455709c956",
+        "metadata": {
+            "file_name": "OMN-second_ndc-EN.html",
+            "country_code": "OMN",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355339,
+        "metrics": {
+            "text_length": 573
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "To accomplish this goal, South Sudan has developed multiple sectoral policies and plans. In addition, through this report, it now presents its second NDC, setting out the next generation of targets with the overarching goal of transitioning to a low-carbon economy by 2030. 4 MATERIAL FLOW ANALYSIS (METABOLIC ASSESSMENT). To carry out the assessment, various public data sources were used, particularly the SCP-HAT. Decoupling economic growth from environmental pressures requires a combination of low-carbon development and resource-use efficiency.",
+        "inputs": {
+            "text": "To accomplish this goal, South Sudan has developed multiple sectoral policies and plans. In addition, through this report, it now presents its second NDC, setting out the next generation of targets with the overarching goal of transitioning to a low-carbon economy by 2030. 4 MATERIAL FLOW ANALYSIS (METABOLIC ASSESSMENT). To carry out the assessment, various public data sources were used, particularly the SCP-HAT. Decoupling economic growth from environmental pressures requires a combination of low-carbon development and resource-use efficiency."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.596
+            ],
+            [
+                "TARGET",
+                0.404
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "7832ac4f-b392-44f5-bcb9-24fdd2ec5d0b",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355340,
+        "metrics": {
+            "text_length": 550
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The most recent available inventory data dates back to 2010, which complicates the projections of baseline emissions. With the 2010 starting point emissions corrected, The Gambia\u2019s overall emissions increased substantially, from 1,758 GgCO2e and 3,711 GgCO2e in 2010 (NDC 1 low and high scenarios) to 4,033 GgCO2e (NDC2). This has repercussions for the subsequent projections, generating higher baseline emissions in 2030. Another challenge involved the limited integration of the mitigation measures identified in the NDC1 into the country\u2019s actual development plans.",
+        "inputs": {
+            "text": "The most recent available inventory data dates back to 2010, which complicates the projections of baseline emissions. With the 2010 starting point emissions corrected, The Gambia\u2019s overall emissions increased substantially, from 1,758 GgCO2e and 3,711 GgCO2e in 2010 (NDC 1 low and high scenarios) to 4,033 GgCO2e (NDC2). This has repercussions for the subsequent projections, generating higher baseline emissions in 2030. Another challenge involved the limited integration of the mitigation measures identified in the NDC1 into the country\u2019s actual development plans."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.979
+            ],
+            [
+                "NEGATIVE",
+                0.021
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "7e95557e-b645-4e03-9e04-d12e54b2f56e",
+        "metadata": {
+            "file_name": "GMB-second_ndc-EN.html",
+            "country_code": "GMB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355344,
+        "metrics": {
+            "text_length": 568
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "25 percent of 2015 level by 2030 (Equating. to a reduction of 43,300 ha of annual. degradation). The area of planted forest and forest. restoration is increased. Non-GHG Actions Based Targets. Enhanced land use planning. Promoting climate-friendly agriculture. Oil palm platform. Cacao platform. Coffee platform. Enhancing community level. agriculture productivity. Certification system for climate-friendly. agriculture products. Enhancing value chain of climate-friendly. agriculture products. Strengthened monitoring of FCA. permits. Enhancement of timber legality. Promoting REDD+. Promoting downstream processing. Promoting the Painim Graun Planim Diwai.",
+        "inputs": {
+            "text": "25 percent of 2015 level by 2030 (Equating. to a reduction of 43,300 ha of annual. degradation). The area of planted forest and forest. restoration is increased. Non-GHG Actions Based Targets. Enhanced land use planning. Promoting climate-friendly agriculture. Oil palm platform. Cacao platform. Coffee platform. Enhancing community level. agriculture productivity. Certification system for climate-friendly. agriculture products. Enhancing value chain of climate-friendly. agriculture products. Strengthened monitoring of FCA. permits. Enhancement of timber legality. Promoting REDD+. Promoting downstream processing. Promoting the Painim Graun Planim Diwai."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.515
+            ],
+            [
+                "NEGATIVE",
+                0.485
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "7f4aaaf3-fc89-45fe-81b3-8d2f8b42f47f",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355339,
+        "metrics": {
+            "text_length": 659
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "These strategies have been designed to ensure that South Sudan adopts a sustainable and low-carbon growth pathway while also supporting the country\u2019s vision to \u2018transition from a least developed country to a middle-income country by 2030 supported by inclusive, stable and sustainable economic growth whilst alleviating poverty\u2019. Thus, recognizing the importance of this document in ascertaining South Sudan\u2019s sustainable economic future, it covers energy- and emission- intensive sectors such as petroleum and mining, which are key economic drivers for the country.",
+        "inputs": {
+            "text": "These strategies have been designed to ensure that South Sudan adopts a sustainable and low-carbon growth pathway while also supporting the country\u2019s vision to \u2018transition from a least developed country to a middle-income country by 2030 supported by inclusive, stable and sustainable economic growth whilst alleviating poverty\u2019. Thus, recognizing the importance of this document in ascertaining South Sudan\u2019s sustainable economic future, it covers energy- and emission- intensive sectors such as petroleum and mining, which are key economic drivers for the country."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.517
+            ],
+            [
+                "TARGET",
+                0.483
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "8104aaa2-7670-4bf0-86e2-53c78f2e2d42",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355340,
+        "metrics": {
+            "text_length": 566
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Annually, mangroves sequester 1,073,696 tonnes of CO2 in the UAE. To enhance natural carbon sinks, the UAE intends to plant 30 million mangrove seedlings by 2030. Further, as part of its efforts to improve implementation of in-situ conservation and to build a network of protected areas between 2021 and 2025, the Emirate of Abu Dhabi targets the inclusion of a minimum of 20% of marine Blue Carbon habitats within Protected Areas. 4.2 Agriculture & Food Security.",
+        "inputs": {
+            "text": "Annually, mangroves sequester 1,073,696 tonnes of CO2 in the UAE. To enhance natural carbon sinks, the UAE intends to plant 30 million mangrove seedlings by 2030. Further, as part of its efforts to improve implementation of in-situ conservation and to build a network of protected areas between 2021 and 2025, the Emirate of Abu Dhabi targets the inclusion of a minimum of 20% of marine Blue Carbon habitats within Protected Areas. 4.2 Agriculture & Food Security."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.576
+            ],
+            [
+                "NEGATIVE",
+                0.424
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "8ac95a19-16a9-480d-85cf-451b00e8f68f",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355335,
+        "metrics": {
+            "text_length": 464
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Waste: expansion of the formal waste collection system as prerequisite to identify a GHG emission target for the 2025 NDC. Adaptation to the adverse impacts of climate change within this NDC focusses on coping with the impacts of an increase in temperature and a rise in sea level. In the context of adaptation, the Government of Tonga has set three targets:. 30% of land in Tonga utilized for agro-forestry or forestry by 2025,.",
+        "inputs": {
+            "text": "Waste: expansion of the formal waste collection system as prerequisite to identify a GHG emission target for the 2025 NDC. Adaptation to the adverse impacts of climate change within this NDC focusses on coping with the impacts of an increase in temperature and a rise in sea level. In the context of adaptation, the Government of Tonga has set three targets:. 30% of land in Tonga utilized for agro-forestry or forestry by 2025,."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.558
+            ],
+            [
+                "NEGATIVE",
+                0.442
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "8f1c7235-9fc4-417d-9c26-c57526513f55",
+        "metadata": {
+            "file_name": "TON-second_ndc-EN.html",
+            "country_code": "TON",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355343,
+        "metrics": {
+            "text_length": 429
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "In order to reduce the environmental impact of desalination, and to address inefficiencies in co-generation due to operational attributes and seasonal variation in demand for power and water, the UAE is developing and scaling up independent water projects based on reverse osmosis (RO) technology and making efforts to expand the share of renewable energy in desalination. The country targets to increase the share of RO-based desalinated water to over 50% of the potable water supply mix by 2036.",
+        "inputs": {
+            "text": "In order to reduce the environmental impact of desalination, and to address inefficiencies in co-generation due to operational attributes and seasonal variation in demand for power and water, the UAE is developing and scaling up independent water projects based on reverse osmosis (RO) technology and making efforts to expand the share of renewable energy in desalination. The country targets to increase the share of RO-based desalinated water to over 50% of the potable water supply mix by 2036."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.508
+            ],
+            [
+                "NEGATIVE",
+                0.492
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "905e2dbd-c8f2-42a7-8c8e-8f3cc0cc9ec9",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355335,
+        "metrics": {
+            "text_length": 497
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Electricity demand in South Sudan is expected to increase from 300 MW to 1,450 MW by 2035. To meet this growing demand, South Sudan has identified multiple electricity generation projects and the associated investment requirements. Using this information, two scenarios have been developed for estimating the emission reduction potential of the electricity sector and are illustrated in Figure 32.",
+        "inputs": {
+            "text": "Electricity demand in South Sudan is expected to increase from 300 MW to 1,450 MW by 2035. To meet this growing demand, South Sudan has identified multiple electricity generation projects and the associated investment requirements. Using this information, two scenarios have been developed for estimating the emission reduction potential of the electricity sector and are illustrated in Figure 32."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.528
+            ],
+            [
+                "NEGATIVE",
+                0.472
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "94431d2e-4477-48a3-8b4c-92bd63981709",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355341,
+        "metrics": {
+            "text_length": 397
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "countries that are particularly vulnerable to the adverse effects of. climate change as part of the Cancun Adaptation Framework. Mitigation. In the context of climate change, a human intervention to reduce. the sources or enhance the sinks of greenhouse gases. Examples. include using fossil fuels more efficiently for industrial processes. or electricity generation, switching to solar energy or wind power,. improving the insulation of buildings, and expanding forests and. other \u201csinks\u201d to remove greater amounts of carbon dioxide from the. atmosphere. Measurement, reporting and.",
+        "inputs": {
+            "text": "countries that are particularly vulnerable to the adverse effects of. climate change as part of the Cancun Adaptation Framework. Mitigation. In the context of climate change, a human intervention to reduce. the sources or enhance the sinks of greenhouse gases. Examples. include using fossil fuels more efficiently for industrial processes. or electricity generation, switching to solar energy or wind power,. improving the insulation of buildings, and expanding forests and. other \u201csinks\u201d to remove greater amounts of carbon dioxide from the. atmosphere. Measurement, reporting and."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.986
+            ],
+            [
+                "TARGET",
+                0.014
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "945d72b5-3663-428a-8ea6-e5b3d4d28bfe",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355345,
+        "metrics": {
+            "text_length": 583
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "the development of the PNG National Adaptation. Plan (NAP). The NAP aims to advance effective. adaptation planning with an overall objective to. strengthen institutional and technical capacities. and integrate climate change adaptation into. national and sub-national planning and budgeting. processes. Adaptation Nine Priority Areas. This subsection identifies PNG\u2019s priority actions in the face of climate challenges while interlinking them. with the country\u2019s key policy and strategy documents, verified through robust stakeholder engagement. and national validation workshops.",
+        "inputs": {
+            "text": "the development of the PNG National Adaptation. Plan (NAP). The NAP aims to advance effective. adaptation planning with an overall objective to. strengthen institutional and technical capacities. and integrate climate change adaptation into. national and sub-national planning and budgeting. processes. Adaptation Nine Priority Areas. This subsection identifies PNG\u2019s priority actions in the face of climate challenges while interlinking them. with the country\u2019s key policy and strategy documents, verified through robust stakeholder engagement. and national validation workshops."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.985
+            ],
+            [
+                "TARGET",
+                0.015
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "9dd0328a-4af1-4809-90db-c0ad456dd2a4",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355346,
+        "metrics": {
+            "text_length": 580
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Quantifiable information on the reference point (including, as appropriate, a base year). (a). Reference year(s), base year(s), reference period(s) or other starting point(s). Base year for emission projections: 2010 Reference year for BAU emission target: 2030. (b). Quantifiable information on the reference indicators, their values in the reference year(s), base year(s), reference period(s) or other starting point(s), and, as applicable, in the target year. The 2030 projected emission level is 6,617 GgCO2e. (c).",
+        "inputs": {
+            "text": "Quantifiable information on the reference point (including, as appropriate, a base year). (a). Reference year(s), base year(s), reference period(s) or other starting point(s). Base year for emission projections: 2010 Reference year for BAU emission target: 2030. (b). Quantifiable information on the reference indicators, their values in the reference year(s), base year(s), reference period(s) or other starting point(s), and, as applicable, in the target year. The 2030 projected emission level is 6,617 GgCO2e. (c)."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.977
+            ],
+            [
+                "NEGATIVE",
+                0.023
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": null,
+        "annotation_agent": null,
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "a1fb605b-0025-45be-84bc-98997945d126",
+        "metadata": {
+            "file_name": "GMB-second_ndc-EN.html",
+            "country_code": "GMB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Discarded",
+        "event_timestamp": 1698049355344,
+        "metrics": {
+            "text_length": 518
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The type of activity being carried out on a unit of land. Land use, land-use change,. and forestry (LULUCF). A greenhouse gas inventory sector that covers emissions and. removals of greenhouse gases resulting from direct human-induced. land use, land-use change and forestry activities. Loss and damage. At COP 16 in Cancun in 2010, Governments established a work. program in order to consider approaches to address loss and. damage associated with climate change impacts in developing. countries that are particularly vulnerable to the adverse effects of.",
+        "inputs": {
+            "text": "The type of activity being carried out on a unit of land. Land use, land-use change,. and forestry (LULUCF). A greenhouse gas inventory sector that covers emissions and. removals of greenhouse gases resulting from direct human-induced. land use, land-use change and forestry activities. Loss and damage. At COP 16 in Cancun in 2010, Governments established a work. program in order to consider approaches to address loss and. damage associated with climate change impacts in developing. countries that are particularly vulnerable to the adverse effects of."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.987
+            ],
+            [
+                "TARGET",
+                0.013
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "a8be3ef2-c138-454b-9059-5b5cce8ce67b",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355345,
+        "metrics": {
+            "text_length": 556
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "can be followed during the planning and development, or after. completion of an inventory that can help to establish its reliability for. the intended applications of that inventory. Vulnerability. The degree to which a system is susceptible to, or unable to cope. with, adverse effects of climate change, including climate variability. and extremes. Vulnerability is a function of the character, magnitude,. and rate of climate variation to which a system is exposed, its. sensitivity, and its adaptive capacity. Acronym. ABM. Australia Bureau of Meteorology. AD.",
+        "inputs": {
+            "text": "can be followed during the planning and development, or after. completion of an inventory that can help to establish its reliability for. the intended applications of that inventory. Vulnerability. The degree to which a system is susceptible to, or unable to cope. with, adverse effects of climate change, including climate variability. and extremes. Vulnerability is a function of the character, magnitude,. and rate of climate variation to which a system is exposed, its. sensitivity, and its adaptive capacity. Acronym. ABM. Australia Bureau of Meteorology. AD."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.986
+            ],
+            [
+                "TARGET",
+                0.014
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "ae515c0e-a86c-45ff-98ac-22f503b43e23",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355346,
+        "metrics": {
+            "text_length": 564
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Description: This goal focuses on contributing to the adaptation of the population to climate change by increasing the availability of water for human consumption through improved coverage and water supply. In this sense, it is expected that by 2030 drinking water coverage will reach 89.7%, through the development of works based on the different ecosystems, in order to reduce water losses, promote the use of water saving and micro-metering technologies, as well as the management of sanitation services in such a way that adaptation and risk reduction measures are included.",
+        "inputs": {
+            "text": "Description: This goal focuses on contributing to the adaptation of the population to climate change by increasing the availability of water for human consumption through improved coverage and water supply. In this sense, it is expected that by 2030 drinking water coverage will reach 89.7%, through the development of works based on the different ecosystems, in order to reduce water losses, promote the use of water saving and micro-metering technologies, as well as the management of sanitation services in such a way that adaptation and risk reduction measures are included."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.603
+            ],
+            [
+                "TARGET",
+                0.397
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "af246f7a-9dc6-4a08-9c2a-2e17db9eea1b",
+        "metadata": {
+            "file_name": "BOL-second_ndc-EN.html",
+            "country_code": "BOL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355336,
+        "metrics": {
+            "text_length": 578
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Key Performance Indicators for Economic Diversification and Fiscal Sustainability in Oman Vision 2040 (Source: Oman vision document 2040). Key Theme. Economy and Development. Priority. Economic Diversification and Fiscal Sustainability. Key Performance Indicators. Baseline Values. 2030 Target. 2040 Target. Economic Complexity Index. Value: -0.004 (-3 \u20133). Rank: 62/126. (2016). Value > 1.186 or Top 20 Countries. Value > 1.577 or Top 10 Countries. Networked Readiness Index. Value: 4.31 (1 \u2013 7). Rank: 52/139 (2016. Value > 5.4 or Top 20 Countries.",
+        "inputs": {
+            "text": "Key Performance Indicators for Economic Diversification and Fiscal Sustainability in Oman Vision 2040 (Source: Oman vision document 2040). Key Theme. Economy and Development. Priority. Economic Diversification and Fiscal Sustainability. Key Performance Indicators. Baseline Values. 2030 Target. 2040 Target. Economic Complexity Index. Value: -0.004 (-3 \u20133). Rank: 62/126. (2016). Value > 1.186 or Top 20 Countries. Value > 1.577 or Top 10 Countries. Networked Readiness Index. Value: 4.31 (1 \u2013 7). Rank: 52/139 (2016. Value > 5.4 or Top 20 Countries."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.523
+            ],
+            [
+                "NEGATIVE",
+                0.477
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "bf51e296-82f6-4975-b189-77ee0edc78f8",
+        "metadata": {
+            "file_name": "OMN-second_ndc-EN.html",
+            "country_code": "OMN",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355338,
+        "metrics": {
+            "text_length": 550
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "By 2025, at least 80% of districts. have access to af-fordable. WHOPES approved LLINs. through retailer outlets. Ongoing. NDOH. IMR, PHA,. WHO). Ongoing. -. Existing:GoPNG, WHO, The. Global Fund. Potential:Other Development. Partners. Require resource. support (financial,. technical) and. capacity support. Strengthen ma-laria. program management at. all levels with district level. as priority. By 2025, 90% of District Activity Implementation. Plans (DAIP) with Malaria. Control Act and funding allocated. Ongoing. NDOH. IMR, PHA,. WHO). Ongoing. -. Existing:GoPNG, WHO, The. Global Fund. Potential:Other Development. Partners. Require resource.",
+        "inputs": {
+            "text": "By 2025, at least 80% of districts. have access to af-fordable. WHOPES approved LLINs. through retailer outlets. Ongoing. NDOH. IMR, PHA,. WHO). Ongoing. -. Existing:GoPNG, WHO, The. Global Fund. Potential:Other Development. Partners. Require resource. support (financial,. technical) and. capacity support. Strengthen ma-laria. program management at. all levels with district level. as priority. By 2025, 90% of District Activity Implementation. Plans (DAIP) with Malaria. Control Act and funding allocated. Ongoing. NDOH. IMR, PHA,. WHO). Ongoing. -. Existing:GoPNG, WHO, The. Global Fund. Potential:Other Development. Partners. Require resource."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.588
+            ],
+            [
+                "NEGATIVE",
+                0.412
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "c6b62d7d-b2ba-4afe-bc6a-578acfd291f3",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355339,
+        "metrics": {
+            "text_length": 648
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The Second NDC of the Argentine Republic presents an absolute goal for all sectors of the economy. e. How the Party has addressed Article 4, paragraph 6, of the Paris Agreement. Does not apply to the Argentine Republic. 7. The way in which the contribution determined at the national level contributes to the achievement of the objective of the Convention, stated in its article 2:. a.",
+        "inputs": {
+            "text": "The Second NDC of the Argentine Republic presents an absolute goal for all sectors of the economy. e. How the Party has addressed Article 4, paragraph 6, of the Paris Agreement. Does not apply to the Argentine Republic. 7. The way in which the contribution determined at the national level contributes to the achievement of the objective of the Convention, stated in its article 2:. a."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.579
+            ],
+            [
+                "NEGATIVE",
+                0.421
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "c70faaf3-035d-4497-ad0d-cb3d70629a48",
+        "metadata": {
+            "file_name": "ARG-second_ndc-EN_TR.html",
+            "country_code": "ARG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355336,
+        "metrics": {
+            "text_length": 385
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Emission reduction scenario: The emission reduction scenario represents the decarbonization pathway that South Sudan will have to follow until 2030 to achieve the Paris Agreement\u2019s goal of limiting global temperature rise to 1.5\u00baC. This scenario aims to reduce agriculture production emissions by 18 percent from 2017 levels by 2030, in line with the World Resources Institute emission reduction estimates for sub-Saharan Africa (Lebling et al., 2020).",
+        "inputs": {
+            "text": "Emission reduction scenario: The emission reduction scenario represents the decarbonization pathway that South Sudan will have to follow until 2030 to achieve the Paris Agreement\u2019s goal of limiting global temperature rise to 1.5\u00baC. This scenario aims to reduce agriculture production emissions by 18 percent from 2017 levels by 2030, in line with the World Resources Institute emission reduction estimates for sub-Saharan Africa (Lebling et al., 2020)."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.98
+            ],
+            [
+                "NEGATIVE",
+                0.02
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "c809c2b0-9330-4999-919e-7100c40ab409",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355344,
+        "metrics": {
+            "text_length": 452
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Existing:GoPNG, WHO, The. Global Fund. Potential:Other Development. Partners. Require technical. advisory and funding. support. Quantifiable Target for Sea Transport: By 2030, US$85m (PGK 302m) value of 4 wharves rehabilitated according to climate resilient codes. Design and/or management. of the 4 wharves in. partnership with development. partners. GoPNG design and implement at. least 2 wharves. Ongoing. PNG Ports Authority. DNPM. 2021-2030. 85. Existing. GoPNG. PNG PA. ADB BRCC. Potential:Development Partners. Require technical. advisory and funding. support. Incorporate climate. change adaptation goals. into National Ports policies.",
+        "inputs": {
+            "text": "Existing:GoPNG, WHO, The. Global Fund. Potential:Other Development. Partners. Require technical. advisory and funding. support. Quantifiable Target for Sea Transport: By 2030, US$85m (PGK 302m) value of 4 wharves rehabilitated according to climate resilient codes. Design and/or management. of the 4 wharves in. partnership with development. partners. GoPNG design and implement at. least 2 wharves. Ongoing. PNG Ports Authority. DNPM. 2021-2030. 85. Existing. GoPNG. PNG PA. ADB BRCC. Potential:Development Partners. Require technical. advisory and funding. support. Incorporate climate. change adaptation goals. into National Ports policies."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.568
+            ],
+            [
+                "NEGATIVE",
+                0.432
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "d78b67e9-1645-47a8-b4d0-d78a098c7f9e",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355340,
+        "metrics": {
+            "text_length": 643
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Third, the NDC2 relies on an enhanced and more robust database to estimate baseline emissions. The NDC1 relied on two scenarios: a low baseline scenario and a high baseline scenario, resulting in a significant difference (87percent) in estimated 2030 emissions. The NDC2 updates the sectoral data and assumptions were refined to derive a single, \u2018best guess\u2019 scenario.",
+        "inputs": {
+            "text": "Third, the NDC2 relies on an enhanced and more robust database to estimate baseline emissions. The NDC1 relied on two scenarios: a low baseline scenario and a high baseline scenario, resulting in a significant difference (87percent) in estimated 2030 emissions. The NDC2 updates the sectoral data and assumptions were refined to derive a single, \u2018best guess\u2019 scenario."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.977
+            ],
+            [
+                "NEGATIVE",
+                0.023
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "d98779a7-be2a-4772-b32d-3d7ea8c34a82",
+        "metadata": {
+            "file_name": "GMB-second_ndc-EN.html",
+            "country_code": "GMB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355344,
+        "metrics": {
+            "text_length": 368
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "4% of the GHG reduction commitment will be based on national efforts, and the remaining 3% would necessitate grants and other forms of concessional financing and assistance with capacity building and institutional strengthening, and access to appropriate technologies. International climate finance is a crucial element for the Sultanate of Oman to further bend the GHG emission growth curve over the next decade.",
+        "inputs": {
+            "text": "4% of the GHG reduction commitment will be based on national efforts, and the remaining 3% would necessitate grants and other forms of concessional financing and assistance with capacity building and institutional strengthening, and access to appropriate technologies. International climate finance is a crucial element for the Sultanate of Oman to further bend the GHG emission growth curve over the next decade."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.545
+            ],
+            [
+                "NEGATIVE",
+                0.455
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "d9a07c7d-864c-478d-83d2-152d57d292c6",
+        "metadata": {
+            "file_name": "OMN-second_ndc-EN.html",
+            "country_code": "OMN",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355338,
+        "metrics": {
+            "text_length": 413
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "in the world to the risk of climate change5. PNG\u2019s. highlands region is susceptible to extreme weather. such as heavy rainfall, which may increase the. occurrence of landslides and inland flooding. The. coastal regions, the islands and the low-lying atoll. areas are mostly vulnerable to extreme weather. events, storm surge, sea-level rise, and coastal. inundation. With more than 75 - 80 percent of the population. living in rural areas6, the risk of exposure to natural. hazards is very high. PNG\u2019s rural populations are.",
+        "inputs": {
+            "text": "in the world to the risk of climate change5. PNG\u2019s. highlands region is susceptible to extreme weather. such as heavy rainfall, which may increase the. occurrence of landslides and inland flooding. The. coastal regions, the islands and the low-lying atoll. areas are mostly vulnerable to extreme weather. events, storm surge, sea-level rise, and coastal. inundation. With more than 75 - 80 percent of the population. living in rural areas6, the risk of exposure to natural. hazards is very high. PNG\u2019s rural populations are."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.987
+            ],
+            [
+                "TARGET",
+                0.013
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "e09615e6-7eae-4dac-97e5-00eb27d99a59",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355344,
+        "metrics": {
+            "text_length": 524
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Conditionality: With national effort up to 60% would be reduced and with international cooperation up to 75% of inhabitants in rural areas and peri-urban sector, with high food insecurity. Description: The actions will make it possible to reduce the number of inhabitants identified in the category of high food insecurity in rural areas and peri-urban sectors of cities through the implementation of public policies, programs and comprehensive projects aimed at improving the availability, access and use of the food.",
+        "inputs": {
+            "text": "Conditionality: With national effort up to 60% would be reduced and with international cooperation up to 75% of inhabitants in rural areas and peri-urban sector, with high food insecurity. Description: The actions will make it possible to reduce the number of inhabitants identified in the category of high food insecurity in rural areas and peri-urban sectors of cities through the implementation of public policies, programs and comprehensive projects aimed at improving the availability, access and use of the food."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.561
+            ],
+            [
+                "TARGET",
+                0.439
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "e1f4aea0-28ce-4015-aeda-112541c89409",
+        "metadata": {
+            "file_name": "BOL-second_ndc-EN.html",
+            "country_code": "BOL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355336,
+        "metrics": {
+            "text_length": 518
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Duqm II Wind IPP 2027 (a). -. -. -. -. -. -. 160 (b). Total - Installed Capacity. -. -. -. -. -. 200. 360. (a) Estimated capacity contribution for this project is tentatively set at 50%, pending the assessment of ground-measured wind data. (b) Expected capacity for the Duqm II Wind IPP is anticipated to change following further site and resource assessments. C. Dhofar Power System. 2021. 2022. 2023. 2024. 2025. 2026. 2027. Non-firm Contracts. Renewables. Dhofar I Wind IPP. 49. 49. 49.",
+        "inputs": {
+            "text": "Duqm II Wind IPP 2027 (a). -. -. -. -. -. -. 160 (b). Total - Installed Capacity. -. -. -. -. -. 200. 360. (a) Estimated capacity contribution for this project is tentatively set at 50%, pending the assessment of ground-measured wind data. (b) Expected capacity for the Duqm II Wind IPP is anticipated to change following further site and resource assessments. C. Dhofar Power System. 2021. 2022. 2023. 2024. 2025. 2026. 2027. Non-firm Contracts. Renewables. Dhofar I Wind IPP. 49. 49. 49."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.557
+            ],
+            [
+                "TARGET",
+                0.443
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": null,
+        "annotation_agent": null,
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "f0006e84-08a7-4c37-ad90-af0964508d85",
+        "metadata": {
+            "file_name": "OMN-second_ndc-EN.html",
+            "country_code": "OMN",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Discarded",
+        "event_timestamp": 1698049355339,
+        "metrics": {
+            "text_length": 489
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "from the five (5) anthropogenic greenhouse gas sectors. Energy. Sector, Industrial Processes Sector, Agricultures, Land Use, Land-Use. Change and Forestry Sector and Waste Sector. IPCC 2006. Guideline for estimating emissions and (removals) of particular gases. from the four (4) anthropogenic greenhouse gas sectors. Energy. Sector; Industrial Processes and Product Use Sector; Agricultures,. Forestry and Other Land-Use; and Waste Sector. Verification. Verification refers to the collection of activities and procedures that. can be followed during the planning and development, or after.",
+        "inputs": {
+            "text": "from the five (5) anthropogenic greenhouse gas sectors. Energy. Sector, Industrial Processes Sector, Agricultures, Land Use, Land-Use. Change and Forestry Sector and Waste Sector. IPCC 2006. Guideline for estimating emissions and (removals) of particular gases. from the four (4) anthropogenic greenhouse gas sectors. Energy. Sector; Industrial Processes and Product Use Sector; Agricultures,. Forestry and Other Land-Use; and Waste Sector. Verification. Verification refers to the collection of activities and procedures that. can be followed during the planning and development, or after."
+        },
+        "prediction": [
+            [
+                "NEGATIVE",
+                0.985
+            ],
+            [
+                "TARGET",
+                0.015
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "f468556a-73b8-4374-b7e1-d6fce4fcf0a7",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355345,
+        "metrics": {
+            "text_length": 590
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Samoa has set two quantitative targets to contribute to adaptation in the AFOLU sector. Firstly, Samoa aims to expand the area under agroforestry to an additional 5 percent of agricultural land by 2030 relative to 2018.61 Increasing the use of agroforestry is expected to contribute to several important ecosystem services. For example, agroforestry systems help protect crops from cyclone damage, diversify agricultural incomes, and reduce riverine flood risk.",
+        "inputs": {
+            "text": "Samoa has set two quantitative targets to contribute to adaptation in the AFOLU sector. Firstly, Samoa aims to expand the area under agroforestry to an additional 5 percent of agricultural land by 2030 relative to 2018.61 Increasing the use of agroforestry is expected to contribute to several important ecosystem services. For example, agroforestry systems help protect crops from cyclone damage, diversify agricultural incomes, and reduce riverine flood risk."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.543
+            ],
+            [
+                "NEGATIVE",
+                0.457
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "TARGET",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "fa6f9baf-f502-4ec4-b5d7-4242d90deba6",
+        "metadata": {
+            "file_name": "WSM-second_ndc-EN.html",
+            "country_code": "WSM",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355343,
+        "metrics": {
+            "text_length": 461
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "In this regard, financial and technical support from the international community is essential to implement the NDC and therefore the conditional requirement for implementation of the measures. c. How the Party has addressed Article 4, paragraph 3, of the Paris Agreement;. Bhutan is already carbon neutral and re-affirms this pledge to maintain this status. The 2nd NDC contains enhanced actions as compared to the 1st NDC:.",
+        "inputs": {
+            "text": "In this regard, financial and technical support from the international community is essential to implement the NDC and therefore the conditional requirement for implementation of the measures. c. How the Party has addressed Article 4, paragraph 3, of the Paris Agreement;. Bhutan is already carbon neutral and re-affirms this pledge to maintain this status. The 2nd NDC contains enhanced actions as compared to the 1st NDC:."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.56
+            ],
+            [
+                "NEGATIVE",
+                0.44
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": null,
+        "annotation_agent": null,
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "fd6d6c21-9a88-4d09-a62b-2d83d45eb506",
+        "metadata": {
+            "file_name": "BTN-second_ndc-EN.html",
+            "country_code": "BTN",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Default",
+        "event_timestamp": 1698049355337,
+        "metrics": {
+            "text_length": 424
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Quantifiable Target for Land Transport (National roads): By 2030, US$907m (PGK 3.2b) value of 2,838 km of national roads built / rehabilitated according to climate resilient codes. National roads built to. climate resilient codes. and standards. Kilometers of na-tional roads. built / rehabilitated to climate. resilient codes. Number of climate resilient. codes and standards policy. addressing climate change. proposed, adopted and applied. to national road projects. Number of nation-al road. projects adopting climate. resilient codes and standards in. man-agement. Ongoing. Department. of Works and.",
+        "inputs": {
+            "text": "Quantifiable Target for Land Transport (National roads): By 2030, US$907m (PGK 3.2b) value of 2,838 km of national roads built / rehabilitated according to climate resilient codes. National roads built to. climate resilient codes. and standards. Kilometers of na-tional roads. built / rehabilitated to climate. resilient codes. Number of climate resilient. codes and standards policy. addressing climate change. proposed, adopted and applied. to national road projects. Number of nation-al road. projects adopting climate. resilient codes and standards in. man-agement. Ongoing. Department. of Works and."
+        },
+        "prediction": [
+            [
+                "TARGET",
+                0.586
+            ],
+            [
+                "NEGATIVE",
+                0.414
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": "NEGATIVE",
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": false,
+        "explanation": null,
+        "id": "ffc97d6f-061c-4fe0-82b4-9652dc254729",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049355340,
+        "metrics": {
+            "text_length": 604
+        },
+        "search_keywords": null
+    }
+]
