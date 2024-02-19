@@ -1,0 +1,83 @@
+﻿Parameter,Category
+A_Caraccess,Transport demand management
+A_Commute,Transport demand management
+A_Complan,Comprehensive transport planning
+A_Density,Land use
+A_Economic,Economic instruments
+A_Emistrad,Economic instruments
+A_Finance,Economic instruments
+A_Fossilfuelsubs,Economic instruments
+A_Fueltax,Economic instruments
+A_Landuse,Land use
+A_LATM,Comprehensive transport planning
+A_LEZ,Vehicle improvements
+A_Mixuse,Land use
+A_Natmobplan,Comprehensive transport planning
+A_Parkingprice,Transport demand management
+A_Procurement,Economic instruments
+A_Roadcharging,Economic instruments
+A_SUMP,Comprehensive transport planning
+A_TDM,Transport demand management
+A_Teleworking,Transport demand management
+A_Vehicletax,Economic instruments
+A_Work,Transport demand management
+I_Aircraftfleet,Aviation improvements
+I_Airtraffic,Aviation improvements
+I_Altfuels,Alternative fuels
+I_Autonomous,Digital solutions
+I_Aviation,Aviation improvements
+I_Biofuel,Alternative fuels
+I_Campaigns,Education and behavioral change
+I_Capacity,Education and behavioral change
+I_Capacityairport,Aviation improvements
+I_CO2certificate,Aviation improvements
+I_DataModelling,Digital solutions
+I_Ecodriving,Education and behavioral change
+I_Education,Education and behavioral change
+I_Efficiencylabel,Labels
+I_Efficiencystd,Vehicle improvements
+I_Emobility,Electric mobility
+I_Emobilitycharging,Electric mobility
+I_Emobilitypurchase,Electric mobility
+I_Ethanol,Alternative fuels
+I_Freighteff,Freight efficiency improvements
+I_Freightlabel,Labels
+I_Fuellabel,Labels
+I_Fuelqualimprove,Vehicle improvements
+I_Hydrogen,Alternative fuels
+I_ICEdiesel,Electric mobility
+I_Inspection,Vehicle improvements
+I_ITS,Digital solutions
+I_Jetfuel,Aviation improvements
+I_Load,Freight efficiency improvements
+I_Lowemissionincentive,Vehicle improvements
+I_LPGCNGLNG,Alternative fuels
+I_Onshorepower,Shipping improvements
+I_Other,Digital solutions
+I_PortInfra,Shipping improvements
+I_RE,Alternative fuels
+I_Shipefficiency,Shipping improvements
+I_Shipping,Shipping improvements
+I_Smartcharging,Electric mobility
+I_Transportlabel,Labels
+I_Vehicleeff,Vehicle improvements
+I_Vehicleimprove,Vehicle improvements
+I_Vehiclelabel,Labels
+I_VehicleRestrictions,Vehicle improvements
+I_Vehiclescrappage,Vehicle improvements
+S_Activemobility,Active mobility
+S_BRT,Public transport improvement
+S_Cycling,Active mobility
+S_Infraexpansion,Improve infrastructure
+S_Infraimprove,Improve infrastructure
+S_Intermodality,Improve infrastructure
+S_Maas,Digital solutions
+S_Micromobility,Electric mobility
+S_Ondemand,Digital solutions
+S_Parking,Transport demand management
+S_PTIntegration,Public transport improvement
+S_PTPriority,Public transport improvement
+S_PublicTransport,Public transport improvement
+S_Railfreight,Freight efficiency improvements
+S_Sharedmob,Digital solutions
+S_Walking,Active mobility
