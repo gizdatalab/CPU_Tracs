@@ -1,0 +1,1904 @@
+[
+    {
+        "text": "The existing feeder line network is believed to be able to incorporate a total of 15 MW of intermittent renewable energy. To meet the 2030 target, Grenada will require a rapid transition, involving energy conservation mechanisms and renewable energy deployment. Vehicle sales have increased significantly than projected since the first NDC. In 2018, the number of registered vehicles was 51% higher than in 2010.",
+        "inputs": {
+            "text": "The existing feeder line network is believed to be able to incorporate a total of 15 MW of intermittent renewable energy. To meet the 2030 target, Grenada will require a rapid transition, involving energy conservation mechanisms and renewable energy deployment. Vehicle sales have increased significantly than projected since the first NDC. In 2018, the number of registered vehicles was 51% higher than in 2010."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.428
+            ],
+            [
+                "Policies & Plans",
+                0.369
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "027517eb-5351-4027-a035-c8c6994dac53",
+        "metadata": {
+            "file_name": "GRD-second_ndc-EN.html",
+            "country_code": "GRD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791602,
+        "metrics": {
+            "text_length": 412
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Across the UAE, green building design and construction is being promoted, minimum requirements for protection of new coastal developments from sea level rise are being set, existing buildings and facilities are being refurbished, and flood monitoring and management systems are being enhanced. Public infrastructure is being continuously upgraded and enhanced to harness benefits of new technologies and practices. Fog detection and warning systems are in use, and efforts are being made to incorporate climate-induced hazards in road safety plans.",
+        "inputs": {
+            "text": "Across the UAE, green building design and construction is being promoted, minimum requirements for protection of new coastal developments from sea level rise are being set, existing buildings and facilities are being refurbished, and flood monitoring and management systems are being enhanced. Public infrastructure is being continuously upgraded and enhanced to harness benefits of new technologies and practices. Fog detection and warning systems are in use, and efforts are being made to incorporate climate-induced hazards in road safety plans."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.969
+            ],
+            [
+                "Policies & Plans",
+                0.049
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "0589a5ef-573e-4fb5-8160-13c1bd6f6b68",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791611,
+        "metrics": {
+            "text_length": 548
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "In order to achieve the targets set within the second NDC, initial estimates suggest that South Sudan will require $376.3 million for implementing adaptation actions in the agriculture, livestock and fisheries; infrastructure (construction and buildings); forests; biodiversity, ecosystem and sustainable wetland management; water; tourism and recreation; health; and disaster risk management sectors. With regard to mitigation, a total of $10,356.1 million is required for GHG reduction in the agriculture, livestock and fisheries; forestry; electricity; waste; infrastructure (construction and buildings); transport; and tourism and recreation sectors.",
+        "inputs": {
+            "text": "In order to achieve the targets set within the second NDC, initial estimates suggest that South Sudan will require $376.3 million for implementing adaptation actions in the agriculture, livestock and fisheries; infrastructure (construction and buildings); forests; biodiversity, ecosystem and sustainable wetland management; water; tourism and recreation; health; and disaster risk management sectors. With regard to mitigation, a total of $10,356.1 million is required for GHG reduction in the agriculture, livestock and fisheries; forestry; electricity; waste; infrastructure (construction and buildings); transport; and tourism and recreation sectors."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.337
+            ],
+            [
+                "Policies & Plans",
+                0.03
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "0b60fd98-c552-4c82-abc4-7dd7d1bf69cf",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791609,
+        "metrics": {
+            "text_length": 654
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Activities being considered. Current progress. Timeframe. Regulate importation of inefficient vehicles. Most vehicles in South Sudan, such as cars and delivery trucks, are imported into the country. Low incomes and no age restrictions on the importation of vehicles result in the majority of imported vehicles being old and inefficient. South Sudan will therefore develop and implement import policies and strategies focusing on the type of vehicle imported to minimize emissions in the country.",
+        "inputs": {
+            "text": "Activities being considered. Current progress. Timeframe. Regulate importation of inefficient vehicles. Most vehicles in South Sudan, such as cars and delivery trucks, are imported into the country. Low incomes and no age restrictions on the importation of vehicles result in the majority of imported vehicles being old and inefficient. South Sudan will therefore develop and implement import policies and strategies focusing on the type of vehicle imported to minimize emissions in the country."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.973
+            ],
+            [
+                "Policies & Plans",
+                0.078
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "1d99ed07-8826-4a14-9ffe-525086587fc4",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791611,
+        "metrics": {
+            "text_length": 495
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Yet to be implemented. Short term. Promote high volume transportation. The government will explore policies encouraging high volume transport options such as buses and carpooling. Increase awareness among the general public regarding benefits associated with using mass transportation. Yet to be implemented. Short term. Coordinate the development plans of the transport and renewable energy sectors. The transport sector is directly linked to the development of renewable energy infrastructure in the country. Therefore, effective coordination mechanisms between the two sectors will be established.",
+        "inputs": {
+            "text": "Yet to be implemented. Short term. Promote high volume transportation. The government will explore policies encouraging high volume transport options such as buses and carpooling. Increase awareness among the general public regarding benefits associated with using mass transportation. Yet to be implemented. Short term. Coordinate the development plans of the transport and renewable energy sectors. The transport sector is directly linked to the development of renewable energy infrastructure in the country. Therefore, effective coordination mechanisms between the two sectors will be established."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.96
+            ],
+            [
+                "Action",
+                0.332
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "214f4c47-2d6f-44d9-8598-97ef84384e12",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791609,
+        "metrics": {
+            "text_length": 600
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Quantifiable Target for Land Transport (National roads): By 2030, US$907m (PGK 3.2b) value of 2,838 km of national roads built / rehabilitated according to climate resilient codes. National roads built to. climate resilient codes. and standards. Kilometers of na-tional roads. built / rehabilitated to climate. resilient codes. Number of climate resilient. codes and standards policy. addressing climate change. proposed, adopted and applied. to national road projects. Number of nation-al road. projects adopting climate. resilient codes and standards in. man-agement. Ongoing. Department. of Works and.",
+        "inputs": {
+            "text": "Quantifiable Target for Land Transport (National roads): By 2030, US$907m (PGK 3.2b) value of 2,838 km of national roads built / rehabilitated according to climate resilient codes. National roads built to. climate resilient codes. and standards. Kilometers of na-tional roads. built / rehabilitated to climate. resilient codes. Number of climate resilient. codes and standards policy. addressing climate change. proposed, adopted and applied. to national road projects. Number of nation-al road. projects adopting climate. resilient codes and standards in. man-agement. Ongoing. Department. of Works and."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.318
+            ],
+            [
+                "Policies & Plans",
+                0.011
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "None"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "231caf9b-3817-4b09-88ec-7a899a23b0f7",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791603,
+        "metrics": {
+            "text_length": 604
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Quantifiable Target for Air Transport: By 2030, US$90m (PGK 320m) value of 16 airports rehabilitated to international and climate resilient standards. Design and/or manage. the re-habilitation of airports. to inter-national and. cli-mate resilient standards. in partnership with. development partners. Number of airports rehabilitated. to in-ternational and climate. resilient standards. Number of laws, policies,. strategies, plans or regulations. addressing climate change. (mitigation or adaptation) officially. proposed, adopted, or. imple-mented. Ongoing. NAC. DNPM. 2021-2030. 90. Existing:GoPNG, WHO, The. Global Fund. Potential:Other Development. Partners. Require technical.",
+        "inputs": {
+            "text": "Quantifiable Target for Air Transport: By 2030, US$90m (PGK 320m) value of 16 airports rehabilitated to international and climate resilient standards. Design and/or manage. the re-habilitation of airports. to inter-national and. cli-mate resilient standards. in partnership with. development partners. Number of airports rehabilitated. to in-ternational and climate. resilient standards. Number of laws, policies,. strategies, plans or regulations. addressing climate change. (mitigation or adaptation) officially. proposed, adopted, or. imple-mented. Ongoing. NAC. DNPM. 2021-2030. 90. Existing:GoPNG, WHO, The. Global Fund. Potential:Other Development. Partners. Require technical."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.522
+            ],
+            [
+                "Policies & Plans",
+                0.008
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "263d8bd8-a940-4246-b605-43bf489735ff",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791602,
+        "metrics": {
+            "text_length": 683
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Introducing EE standards by developing legislation (amendment of Electricity Act) and set up a dedicated organization for implementation. 50. Nonrevenue generating. Grant: yesConcessional Loan: yesGuarantee: noTechnical assistance. 6. Transport. Improve public transport. Ministry of Public Works, Transport and Communication (MPWTC) Road Authority Suriname (WAS). 5 years. 2020-2025. Regional / TBD. Improve the public transport system, including adding separate bus lanes, public bus hubs outside the city center and shuttle bus inside the city center. 3. Nonrevenue generating.",
+        "inputs": {
+            "text": "Introducing EE standards by developing legislation (amendment of Electricity Act) and set up a dedicated organization for implementation. 50. Nonrevenue generating. Grant: yesConcessional Loan: yesGuarantee: noTechnical assistance. 6. Transport. Improve public transport. Ministry of Public Works, Transport and Communication (MPWTC) Road Authority Suriname (WAS). 5 years. 2020-2025. Regional / TBD. Improve the public transport system, including adding separate bus lanes, public bus hubs outside the city center and shuttle bus inside the city center. 3. Nonrevenue generating."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.712
+            ],
+            [
+                "Policies & Plans",
+                0.492
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "2bfe4a37-217a-479c-b1eb-ba0bfb19eac6",
+        "metadata": {
+            "file_name": "SUR-second_ndc-EN.html",
+            "country_code": "SUR",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791610,
+        "metrics": {
+            "text_length": 580
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "South Sudan will invest in improving the existing rail network and will also introduce electric railways into the country. Specific activities will be determined over the course of NDC implementation. Yet to be implemented. Medium to long term. Develop guidelines and standards to control vehicular air pollution. South Sudan will focus on developing national ambient air quality standards or vehicular emission standards to control the problem of air pollution caused by the transportation sector.",
+        "inputs": {
+            "text": "South Sudan will invest in improving the existing rail network and will also introduce electric railways into the country. Specific activities will be determined over the course of NDC implementation. Yet to be implemented. Medium to long term. Develop guidelines and standards to control vehicular air pollution. South Sudan will focus on developing national ambient air quality standards or vehicular emission standards to control the problem of air pollution caused by the transportation sector."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.947
+            ],
+            [
+                "Action",
+                0.393
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "2c28f2e7-b3a3-41e0-9246-b56515dd3c49",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791608,
+        "metrics": {
+            "text_length": 498
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Global Health Workforce Alliance (2021). South Sudan. WHO.   Global Partnership for Education (2020). Education in South Sudan, 21 May.   Accessed 12 December 2020. Gota, S., C. Huizenga and K. Peet (2016). Implications of 2DS and 1.5DS for Land Transport Carbon Emissions in 2050: Paris Process on Mobility and Climate. www.ppmc-transport.org/wp-content/uploads/2016/11/SLoCaT-1.5DS-2050-Report-2016-11-07.pdf. Accessed 9 December 2020. Ibrahim, M. S. (2015). Artisanal Mining in South Sudan: Opportunities, challenges and impacts. Juba: Ministry of Minerals. International Energy Agency (2020).",
+        "inputs": {
+            "text": "Global Health Workforce Alliance (2021). South Sudan. WHO.   Global Partnership for Education (2020). Education in South Sudan, 21 May.   Accessed 12 December 2020. Gota, S., C. Huizenga and K. Peet (2016). Implications of 2DS and 1.5DS for Land Transport Carbon Emissions in 2050: Paris Process on Mobility and Climate. www.ppmc-transport.org/wp-content/uploads/2016/11/SLoCaT-1.5DS-2050-Report-2016-11-07.pdf. Accessed 9 December 2020. Ibrahim, M. S. (2015). Artisanal Mining in South Sudan: Opportunities, challenges and impacts. Juba: Ministry of Minerals. International Energy Agency (2020)."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.713
+            ],
+            [
+                "Policies & Plans",
+                0.008
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": null,
+        "annotation_agent": null,
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "2e281869-285c-46d5-8974-b838abcda401",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Discarded",
+        "event_timestamp": 1698049791609,
+        "metrics": {
+            "text_length": 596
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "4 \u2013 Downsizing the Gambia\u2019s transport sector carbon footprint. Measure. Conditionality. Mitigation potential (in GgCO2e) and timeline. 4 \u2013 Downsizing the Gambia\u2019s transport sector carbon footprint. Component 1: Implementation of vehicle fuel efficiency standards Component 2: Strengthening public transport systems Component 3: Increasing use of blended fuel in road transport. Conditional. 129 GgCO2e in 2030. GHG emissions in the transport sector are expected to increase from 352 GgCO2e in 2020 to 580 GgCO2e in 2030 (64.8 percent).",
+        "inputs": {
+            "text": "4 \u2013 Downsizing the Gambia\u2019s transport sector carbon footprint. Measure. Conditionality. Mitigation potential (in GgCO2e) and timeline. 4 \u2013 Downsizing the Gambia\u2019s transport sector carbon footprint. Component 1: Implementation of vehicle fuel efficiency standards Component 2: Strengthening public transport systems Component 3: Increasing use of blended fuel in road transport. Conditional. 129 GgCO2e in 2030. GHG emissions in the transport sector are expected to increase from 352 GgCO2e in 2020 to 580 GgCO2e in 2030 (64.8 percent)."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.278
+            ],
+            [
+                "Policies & Plans",
+                0.013
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "31263032-c6b0-4e33-902c-e513a2c8710f",
+        "metadata": {
+            "file_name": "GMB-second_ndc-EN.html",
+            "country_code": "GMB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791601,
+        "metrics": {
+            "text_length": 535
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Gabon plans to maintain our emissions in the energy sector, the second source of emissions, at or below 2005 levels, mainly by transitioning from hydrocarbon sources of energy to hydro and solar energy, by improving energy efficiency in households, services, industries and transport, by replacing fuel oil plants with natural gas, implementing a \u201czero flaring\u201d policy in the oil industry and improving interconnectivity of the electricity grid. In the agriculture sector, Gabon commits to promoting tow-till agriculture by developing irrigation and agro-forestry, formalizing agricultural land-tenure systems, preserving High Conservation Value (HCV) areas in industrial concessions, and using cover crops to reduce the need for chemical fertilize in plantations.",
+        "inputs": {
+            "text": "Gabon plans to maintain our emissions in the energy sector, the second source of emissions, at or below 2005 levels, mainly by transitioning from hydrocarbon sources of energy to hydro and solar energy, by improving energy efficiency in households, services, industries and transport, by replacing fuel oil plants with natural gas, implementing a \u201czero flaring\u201d policy in the oil industry and improving interconnectivity of the electricity grid. In the agriculture sector, Gabon commits to promoting tow-till agriculture by developing irrigation and agro-forestry, formalizing agricultural land-tenure systems, preserving High Conservation Value (HCV) areas in industrial concessions, and using cover crops to reduce the need for chemical fertilize in plantations."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.727
+            ],
+            [
+                "Action",
+                0.554
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "4cd6b161-4b54-40e4-9972-428f70e41c81",
+        "metadata": {
+            "file_name": "GAB-second_ndc-EN.html",
+            "country_code": "GAB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791598,
+        "metrics": {
+            "text_length": 764
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "This places a significant cost burden on transport users and suppliers and has direct consequences on the country\u2019s economy. Therefore, the Government of South Sudan is currently focusing on the development of the country\u2019s transport infrastructure (especially road transport) and the issue is also a key priority in most of the development policies of South Sudan. The NDS targets for 2018\u20132021 include constructing and rehabilitating 1,000 kilometres of feeder road and 500 kilometres of highway.",
+        "inputs": {
+            "text": "This places a significant cost burden on transport users and suppliers and has direct consequences on the country\u2019s economy. Therefore, the Government of South Sudan is currently focusing on the development of the country\u2019s transport infrastructure (especially road transport) and the issue is also a key priority in most of the development policies of South Sudan. The NDS targets for 2018\u20132021 include constructing and rehabilitating 1,000 kilometres of feeder road and 500 kilometres of highway."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.555
+            ],
+            [
+                "Policies & Plans",
+                0.057
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "5600f22e-4ae6-4acf-9e63-529efecff0e5",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791608,
+        "metrics": {
+            "text_length": 498
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Table D.2: Key institutions and their capacity to implement GHG mitigation projects. Institution. Number of FTE available. Electric Power Corporation (EPC). 0.4. Land Transport Authority (LTA). 0.4. Ministry of Agriculture and Fisheries (MAF). 0.4. Ministry of Commerce, Industry and Labour (MCIL). 0.15. Ministry of Finance (MoF). 0.8. Ministry of Natural Resources and Environment (MNRE). 2.0. Ministry of Works, Transport and Infrastructure (MWTI). 2.0. Samoa Bureau of Statistics (SBS). 0.4. Samoa Police Services (SPS). 2.093. Samoa Shipping Corporation (SCS). 0.4. Samoa Tourism Authority (STA). 0.4.",
+        "inputs": {
+            "text": "Table D.2: Key institutions and their capacity to implement GHG mitigation projects. Institution. Number of FTE available. Electric Power Corporation (EPC). 0.4. Land Transport Authority (LTA). 0.4. Ministry of Agriculture and Fisheries (MAF). 0.4. Ministry of Commerce, Industry and Labour (MCIL). 0.15. Ministry of Finance (MoF). 0.8. Ministry of Natural Resources and Environment (MNRE). 2.0. Ministry of Works, Transport and Infrastructure (MWTI). 2.0. Samoa Bureau of Statistics (SBS). 0.4. Samoa Police Services (SPS). 2.093. Samoa Shipping Corporation (SCS). 0.4. Samoa Tourism Authority (STA). 0.4."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.252
+            ],
+            [
+                "Policies & Plans",
+                0.031
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "None"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "57531e91-a096-49a8-9b14-11ef22bba96a",
+        "metadata": {
+            "file_name": "WSM-second_ndc-EN.html",
+            "country_code": "WSM",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791610,
+        "metrics": {
+            "text_length": 606
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "With the objective of instituting a dynamic sustainable finance sector in the UAE and supporting UAE\u2019s transition towards a green economy, more than 70 government and private entities have adopted the Abu Dhabi and Dubai Finance Declarations. The country is seeing a range of green finance instruments and initiatives being developed and adopted. For example, the Dubai Green Fund established in 2016 provides loans to companies in the clean energy sector at reduced rates.",
+        "inputs": {
+            "text": "With the objective of instituting a dynamic sustainable finance sector in the UAE and supporting UAE\u2019s transition towards a green economy, more than 70 government and private entities have adopted the Abu Dhabi and Dubai Finance Declarations. The country is seeing a range of green finance instruments and initiatives being developed and adopted. For example, the Dubai Green Fund established in 2016 provides loans to companies in the clean energy sector at reduced rates."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.376
+            ],
+            [
+                "Policies & Plans",
+                0.057
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "5a762301-5c9c-4373-a80d-e2de2cdbc134",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791597,
+        "metrics": {
+            "text_length": 473
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Improve transport infrastructure and integrated national transportation system (introduce electrical railway and cars). \u2013. 200. Waste. Establish an integrated waste management system, including all waste sources (forest, agricultural, domestic and crude oil waste). Improve urban and industrial wastewater treatment, ensuring adequate quantity and quality of water in human settlements. 20. Use urban waste as a high-value resource stream (e.g., in making briquettes). Reduce, reuse and recycle solid waste. Forestry. Afforestation. \u2013. 10. Conserve forests through implementation of REDD+ programme and promote alternate livelihoods.",
+        "inputs": {
+            "text": "Improve transport infrastructure and integrated national transportation system (introduce electrical railway and cars). \u2013. 200. Waste. Establish an integrated waste management system, including all waste sources (forest, agricultural, domestic and crude oil waste). Improve urban and industrial wastewater treatment, ensuring adequate quantity and quality of water in human settlements. 20. Use urban waste as a high-value resource stream (e.g., in making briquettes). Reduce, reuse and recycle solid waste. Forestry. Afforestation. \u2013. 10. Conserve forests through implementation of REDD+ programme and promote alternate livelihoods."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.727
+            ],
+            [
+                "Policies & Plans",
+                0.401
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "5bb00d70-abc4-4d84-90cd-2518050ce395",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791609,
+        "metrics": {
+            "text_length": 633
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Since emissions related to domestic transport (both road and aviation) for South Sudan are accounted for in the transport sector, here the focus is only on emission reduction from the hotel industry. The tourism and recreation sector is in a nascent stage of development in South Sudan, and there are therefore limitations with respect to data availability for the sector as a whole.",
+        "inputs": {
+            "text": "Since emissions related to domestic transport (both road and aviation) for South Sudan are accounted for in the transport sector, here the focus is only on emission reduction from the hotel industry. The tourism and recreation sector is in a nascent stage of development in South Sudan, and there are therefore limitations with respect to data availability for the sector as a whole."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.347
+            ],
+            [
+                "Policies & Plans",
+                0.012
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "None"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "5c10f9ff-cb8a-48f6-a9c9-c40d788130c5",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791608,
+        "metrics": {
+            "text_length": 383
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The 1,200 km-long Etihad Rail network is being built in stages, with the 264 km Stage One route operational for freight movement since January 2016. A single train journey on this line removes approximately 300 trucks from the road, reducing CO2 emissions by 70-80%. Stage Two of Etihad Rail is slated to begin operations in 2023 and will extend over 605 km. On completion, the network will link all major UAE industrial ports and trading centers.",
+        "inputs": {
+            "text": "The 1,200 km-long Etihad Rail network is being built in stages, with the 264 km Stage One route operational for freight movement since January 2016. A single train journey on this line removes approximately 300 trucks from the road, reducing CO2 emissions by 70-80%. Stage Two of Etihad Rail is slated to begin operations in 2023 and will extend over 605 km. On completion, the network will link all major UAE industrial ports and trading centers."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.969
+            ],
+            [
+                "Policies & Plans",
+                0.057
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "5f4f5656-8df5-4877-b2fa-96e0270ef08c",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791611,
+        "metrics": {
+            "text_length": 447
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Several of the actions and measures in the EE policy and action plan are also being integrated into the different LEDS for human settlements, transport, and Industries. d. Target relative to the reference indicator, expressed numerically, for example in percentage or amount of reduction;. Bhutan\u2019s target is to maintain the status as a carbon neutral country. This is expressed in relative terms of total GHG emissions against total removals of GHG for each relevant target year.",
+        "inputs": {
+            "text": "Several of the actions and measures in the EE policy and action plan are also being integrated into the different LEDS for human settlements, transport, and Industries. d. Target relative to the reference indicator, expressed numerically, for example in percentage or amount of reduction;. Bhutan\u2019s target is to maintain the status as a carbon neutral country. This is expressed in relative terms of total GHG emissions against total removals of GHG for each relevant target year."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.377
+            ],
+            [
+                "Action",
+                0.02
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "None"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "65b023b0-9885-499b-bb03-0864e7e20155",
+        "metadata": {
+            "file_name": "BTN-second_ndc-EN.html",
+            "country_code": "BTN",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791612,
+        "metrics": {
+            "text_length": 480
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The NDS targets for 2018\u20132021 include constructing and rehabilitating 1,000 kilometres of feeder road and 500 kilometres of highway. Data of GHG emissions from the transport sector show a decreasing trend from 2012 to 2014, followed by an increase of 12 percent in 2015 (compared to 2014). Transportation contributed 1.2 percent to total GHG emissions in 2015. Of this, road transport contributed to 0.42 million tCO2e (94 percent of total transport emissions) and civil aviation 0.03 million tCO2e (6 percent of total emissions).",
+        "inputs": {
+            "text": "The NDS targets for 2018\u20132021 include constructing and rehabilitating 1,000 kilometres of feeder road and 500 kilometres of highway. Data of GHG emissions from the transport sector show a decreasing trend from 2012 to 2014, followed by an increase of 12 percent in 2015 (compared to 2014). Transportation contributed 1.2 percent to total GHG emissions in 2015. Of this, road transport contributed to 0.42 million tCO2e (94 percent of total transport emissions) and civil aviation 0.03 million tCO2e (6 percent of total emissions)."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.372
+            ],
+            [
+                "Policies & Plans",
+                0.014
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "66f3f800-8d91-4fe3-8113-0a40a5a21d68",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791608,
+        "metrics": {
+            "text_length": 530
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The Kyoto Protocol\u2019s Clean Development Mechanism (CDM) has been a driver of sustainability projects in the UAE, with the country currently host to 15 CDM projects. The UAE welcomes international cooperation in renewable energy advancement, cleaner hydrocarbons, hydrogen fuel, industrial energy efficiency, green mobility, waste management and sustainable agriculture. In furthering bilateral and multilateral collaboration on technology development and deployment, the UAE has championed infrastructure and energy projects.",
+        "inputs": {
+            "text": "The Kyoto Protocol\u2019s Clean Development Mechanism (CDM) has been a driver of sustainability projects in the UAE, with the country currently host to 15 CDM projects. The UAE welcomes international cooperation in renewable energy advancement, cleaner hydrocarbons, hydrogen fuel, industrial energy efficiency, green mobility, waste management and sustainable agriculture. In furthering bilateral and multilateral collaboration on technology development and deployment, the UAE has championed infrastructure and energy projects."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.869
+            ],
+            [
+                "Action",
+                0.661
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "69e4ef2d-c290-4e86-bde7-c949eaccae17",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791598,
+        "metrics": {
+            "text_length": 524
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "In addition to offsetting the event\u2019s emissions, there were efforts made to power the Games with clean energy sources and to provide sustainable transport options. With the UAE set to host the next World Expo in 2021, the Expo 2020 Dubai is slated to be a sustainable mega-event. Particular attention is being paid to sourcing of clean energy, water conservation, effective waste management, and use of sustainable building materials in accordance with green design.",
+        "inputs": {
+            "text": "In addition to offsetting the event\u2019s emissions, there were efforts made to power the Games with clean energy sources and to provide sustainable transport options. With the UAE set to host the next World Expo in 2021, the Expo 2020 Dubai is slated to be a sustainable mega-event. Particular attention is being paid to sourcing of clean energy, water conservation, effective waste management, and use of sustainable building materials in accordance with green design."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.658
+            ],
+            [
+                "Policies & Plans",
+                0.15
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "None"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "6f493224-b424-4221-b899-0a9a9b8a8a7f",
+        "metadata": {
+            "file_name": "ARE-second_ndc-EN.html",
+            "country_code": "ARE",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791597,
+        "metrics": {
+            "text_length": 466
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "For both vehicle and appliance standards and incentives, technology transfer, capacity building and external financial support may be required. 3.2 Industrial processes and product use (IPPU) Sector. Tonga does not have any target to reduce GHG emissions from IPPU for two reasons. First, GHG emissions from IPPU represent a fraction of Tonga\u2019s total greenhouse gas emissions given the absence of mineral, chemical, metal, electronics, and other manufacturing industries as well as the limited use of lubricants, paraffin waxes and solvents.",
+        "inputs": {
+            "text": "For both vehicle and appliance standards and incentives, technology transfer, capacity building and external financial support may be required. 3.2 Industrial processes and product use (IPPU) Sector. Tonga does not have any target to reduce GHG emissions from IPPU for two reasons. First, GHG emissions from IPPU represent a fraction of Tonga\u2019s total greenhouse gas emissions given the absence of mineral, chemical, metal, electronics, and other manufacturing industries as well as the limited use of lubricants, paraffin waxes and solvents."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.653
+            ],
+            [
+                "Policies & Plans",
+                0.385
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "None"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "71a60b6e-8da4-481b-bf53-79137ef06283",
+        "metadata": {
+            "file_name": "TON-second_ndc-EN.html",
+            "country_code": "TON",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791610,
+        "metrics": {
+            "text_length": 541
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The Ministry of Transport is responsible for overall policy and regulation of the transport sector, as well as the administration of all modes of transportation \u2013 road, rail, air and river. South Sudan Meteorological Department. The South Sudan Meteorological Department operates under the Ministry of Transport (as part of the South Sudan Civil Aviation Authority) to provide weather-related and aeronautical information for air navigation. Ministry of Wildlife Conservation and Tourism. South Sudan Wildlife Service.",
+        "inputs": {
+            "text": "The Ministry of Transport is responsible for overall policy and regulation of the transport sector, as well as the administration of all modes of transportation \u2013 road, rail, air and river. South Sudan Meteorological Department. The South Sudan Meteorological Department operates under the Ministry of Transport (as part of the South Sudan Civil Aviation Authority) to provide weather-related and aeronautical information for air navigation. Ministry of Wildlife Conservation and Tourism. South Sudan Wildlife Service."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.425
+            ],
+            [
+                "Policies & Plans",
+                0.012
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "7be4f99f-5f6f-42eb-b96e-5b377829da6b",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791609,
+        "metrics": {
+            "text_length": 518
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Baseline 2020: 3 Hybrid ISs. Condition: Goal will be met with national effort. Description: This measure seeks to develop clean generation capacities in the country\u2019s ISs through the inclusion of medium and low power renewable generation plants complementary to existing plants operating under microgrid schemes. It has been estimated that by 2030 a total of 8 ISs will be able to include in their electricity systems generation plants based on renewable sources (photovoltaic, wind or microhydro).",
+        "inputs": {
+            "text": "Baseline 2020: 3 Hybrid ISs. Condition: Goal will be met with national effort. Description: This measure seeks to develop clean generation capacities in the country\u2019s ISs through the inclusion of medium and low power renewable generation plants complementary to existing plants operating under microgrid schemes. It has been estimated that by 2030 a total of 8 ISs will be able to include in their electricity systems generation plants based on renewable sources (photovoltaic, wind or microhydro)."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.598
+            ],
+            [
+                "Action",
+                0.034
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "8029ea60-a9cd-453e-8ec4-e0ece19291b4",
+        "metadata": {
+            "file_name": "BOL-second_ndc-EN.html",
+            "country_code": "BOL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791612,
+        "metrics": {
+            "text_length": 498
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Based on the final scores and their individual significance to South Sudan\u2019s development, eight sectors were identified. In addition to these sectors, additional sectors were included, based on the inputs of all relevant South Sudanese stakeholders, making a total of 14 sectors. These are as follows:. Agriculture, livestock and fisheries. Infrastructure (construction and buildings). Forestry. Biodiversity, ecosystem and sustainable wetland management. Electricity. Water. Waste. Tourism and recreation. Mining and quarrying. Transport. Industry. Petroleum, chemicals and non-metallic mineral products. Health. Disaster risk management. SECTORAL STRATEGIES.",
+        "inputs": {
+            "text": "Based on the final scores and their individual significance to South Sudan\u2019s development, eight sectors were identified. In addition to these sectors, additional sectors were included, based on the inputs of all relevant South Sudanese stakeholders, making a total of 14 sectors. These are as follows:. Agriculture, livestock and fisheries. Infrastructure (construction and buildings). Forestry. Biodiversity, ecosystem and sustainable wetland management. Electricity. Water. Waste. Tourism and recreation. Mining and quarrying. Transport. Industry. Petroleum, chemicals and non-metallic mineral products. Health. Disaster risk management. SECTORAL STRATEGIES."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.288
+            ],
+            [
+                "Policies & Plans",
+                0.011
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "None"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "81c5d2d7-5633-452b-8028-f6ce62f7aa36",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791603,
+        "metrics": {
+            "text_length": 660
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Water Resources and Energy;. Rural and Urban Settlements;. Industry, Transport and Physical Infrastructure;. Tourism, Natural and Cultural Heritage;. Health, Drinking Water and Sanitation;. Disaster Risk Reduction and Management. The cross-cutting areas are:. Gender Equality and Social Inclusion (GESI), Livelihoods and Governance;. Awareness Raising and Capacity Building;. Research, Technology Development and Extension;. Climate Finance Management.",
+        "inputs": {
+            "text": "Water Resources and Energy;. Rural and Urban Settlements;. Industry, Transport and Physical Infrastructure;. Tourism, Natural and Cultural Heritage;. Health, Drinking Water and Sanitation;. Disaster Risk Reduction and Management. The cross-cutting areas are:. Gender Equality and Social Inclusion (GESI), Livelihoods and Governance;. Awareness Raising and Capacity Building;. Research, Technology Development and Extension;. Climate Finance Management."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.418
+            ],
+            [
+                "Policies & Plans",
+                0.009
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "None"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "843a68ad-aec5-40d6-a086-04e01c6f16b7",
+        "metadata": {
+            "file_name": "NPL-second_ndc-EN.html",
+            "country_code": "NPL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791602,
+        "metrics": {
+            "text_length": 452
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Major expenditures in the transport sector are in the areas of infrastructure development to introduce low emission transport modes. f) Waste Management. Under the National Waste Management Strategy 2019, and the Waste Management and Stray Dog Population Control Flagship Program Bhutan has set the goal to achieve Zero Waste Bhutan whereby the current trend of disposing over 80% to the landfill is reversed to less than 20% by the year 2030 based on the principles of circular economy. g) Sustainable Hydropower Development.",
+        "inputs": {
+            "text": "Major expenditures in the transport sector are in the areas of infrastructure development to introduce low emission transport modes. f) Waste Management. Under the National Waste Management Strategy 2019, and the Waste Management and Stray Dog Population Control Flagship Program Bhutan has set the goal to achieve Zero Waste Bhutan whereby the current trend of disposing over 80% to the landfill is reversed to less than 20% by the year 2030 based on the principles of circular economy. g) Sustainable Hydropower Development."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.947
+            ],
+            [
+                "Action",
+                0.035
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "8760bb92-c689-443f-8cc4-3c2999e95fd2",
+        "metadata": {
+            "file_name": "BTN-second_ndc-EN.html",
+            "country_code": "BTN",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791611,
+        "metrics": {
+            "text_length": 526
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "While energy efficiency reviews and development of shore-side electricity supply can be achieved without external financial support, the development of renewable energy technologies on vessels and the exploration of low-carbon maritime transport options will require technology transfer, capacity building, and external financial support. Tourism. Reducing GHG emissions in the tourism sector may be achieved by implementing and monitoring energy efficiency programs for appliances.",
+        "inputs": {
+            "text": "While energy efficiency reviews and development of shore-side electricity supply can be achieved without external financial support, the development of renewable energy technologies on vessels and the exploration of low-carbon maritime transport options will require technology transfer, capacity building, and external financial support. Tourism. Reducing GHG emissions in the tourism sector may be achieved by implementing and monitoring energy efficiency programs for appliances."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.684
+            ],
+            [
+                "Policies & Plans",
+                0.585
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "92e00949-c3e4-4d7c-9d22-55b870c1b1d1",
+        "metadata": {
+            "file_name": "WSM-second_ndc-EN.html",
+            "country_code": "WSM",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791610,
+        "metrics": {
+            "text_length": 482
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "However, the rail network has not been operational since 2009/2010. The country has one heliport and about 85 airports, of which only three have paved runways. There are seven main river ports in the country and commercial transportation services are fairly regular along the White Nile. The overall cost of transporting goods remains high in South Sudan. This places a significant cost burden on transport users and suppliers and has direct consequences on the country\u2019s economy.",
+        "inputs": {
+            "text": "However, the rail network has not been operational since 2009/2010. The country has one heliport and about 85 airports, of which only three have paved runways. There are seven main river ports in the country and commercial transportation services are fairly regular along the White Nile. The overall cost of transporting goods remains high in South Sudan. This places a significant cost burden on transport users and suppliers and has direct consequences on the country\u2019s economy."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.628
+            ],
+            [
+                "Action",
+                0.474
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "93e14406-62d4-490a-b907-389b3a8d24de",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791608,
+        "metrics": {
+            "text_length": 480
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The most feasible option for Suriname is to convert the existing dump into a proper managed sanitary landfill with waste separation, recycling and reuse. 2. The National Development Policy Plan (2017-2022) considers transport and infrastructure key for the development of other sectors. Transport infrastructure also makes an important contribution to regional integration. The PDP does not address the climate change footprint of the sector, but concern is expressed about climate change impacts in low-lying urban areas.",
+        "inputs": {
+            "text": "The most feasible option for Suriname is to convert the existing dump into a proper managed sanitary landfill with waste separation, recycling and reuse. 2. The National Development Policy Plan (2017-2022) considers transport and infrastructure key for the development of other sectors. Transport infrastructure also makes an important contribution to regional integration. The PDP does not address the climate change footprint of the sector, but concern is expressed about climate change impacts in low-lying urban areas."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.582
+            ],
+            [
+                "Action",
+                0.342
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "940f30b1-db64-40ca-ab9f-cc763bdcad06",
+        "metadata": {
+            "file_name": "SUR-second_ndc-EN.html",
+            "country_code": "SUR",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791609,
+        "metrics": {
+            "text_length": 522
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "South Sudan will therefore develop and implement import policies and strategies focusing on the type of vehicle imported to minimize emissions in the country. Review import policies to include criteria for types of vehicles that can be imported. Yet to be implemented. Short term. Incentivize the importation and use of EVs. South Sudan will implement measures to incentivize the importation and use of (old or new) EVs. This could either involve importing complete EVs or EV parts that can be assembled within the country.",
+        "inputs": {
+            "text": "South Sudan will therefore develop and implement import policies and strategies focusing on the type of vehicle imported to minimize emissions in the country. Review import policies to include criteria for types of vehicles that can be imported. Yet to be implemented. Short term. Incentivize the importation and use of EVs. South Sudan will implement measures to incentivize the importation and use of (old or new) EVs. This could either involve importing complete EVs or EV parts that can be assembled within the country."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.968
+            ],
+            [
+                "Policies & Plans",
+                0.074
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "94987b62-c0cd-46af-9f52-8164d399723b",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791610,
+        "metrics": {
+            "text_length": 523
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Industries and LULUCF sectors, which made. up 38% of PNG\u2019s reported net emissions in. 20158 consideration of possible actions within. the transport sector are also presented. Across. both sectors targets are based against a 2015. baseline with the target period covering 2021-. 2030. All targets presented are conditional. Energy Industries:Within the Energy Industries PNG is committing. to a headline target of carbon neutrality. within the energy industries sub-sector by. 2030. This will be achieved by:. Reducing energy demand - through. adoption and implementation of.",
+        "inputs": {
+            "text": "Industries and LULUCF sectors, which made. up 38% of PNG\u2019s reported net emissions in. 20158 consideration of possible actions within. the transport sector are also presented. Across. both sectors targets are based against a 2015. baseline with the target period covering 2021-. 2030. All targets presented are conditional. Energy Industries:Within the Energy Industries PNG is committing. to a headline target of carbon neutrality. within the energy industries sub-sector by. 2030. This will be achieved by:. Reducing energy demand - through. adoption and implementation of."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.948
+            ],
+            [
+                "Action",
+                0.03
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "960bf969-fbdf-443c-8ee3-f3d8314442dd",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791611,
+        "metrics": {
+            "text_length": 574
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Pillar 3 of the SPCR consists of an integrated programme designed to enhance the climate resilience of the urban areas in The Gambia \u2013 namely the GBA and the growth centres \u2013 while also covering infrastructural issues beyond the urban areas. Specific components include developing climate-resilient integrated waste management, addressing the associated need for climate-resilient roads and drainage systems, and actions to climate proof water supply and sanitation infrastructure, as well as energy infrastructure.",
+        "inputs": {
+            "text": "Pillar 3 of the SPCR consists of an integrated programme designed to enhance the climate resilience of the urban areas in The Gambia \u2013 namely the GBA and the growth centres \u2013 while also covering infrastructural issues beyond the urban areas. Specific components include developing climate-resilient integrated waste management, addressing the associated need for climate-resilient roads and drainage systems, and actions to climate proof water supply and sanitation infrastructure, as well as energy infrastructure."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.342
+            ],
+            [
+                "Policies & Plans",
+                0.01
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "9dac9f56-1ee1-4ac7-9f2d-7af322df965e",
+        "metadata": {
+            "file_name": "GMB-second_ndc-EN.html",
+            "country_code": "GMB",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791602,
+        "metrics": {
+            "text_length": 515
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Monitor vehicle fleet-weighted fuel and CO2. efficiency;. Eliminate high emission vehicles;. Establish low carbon fuel standards;. Encourage the introduction of hybrid and. electric vehicles. Land Use, Land-Use Change & Forestry Sub-Sector. The Land Use, Land-Use Change and Forestry. (LULUCF) sub-sector is one of the biggest contributors. to GHG emissions in PNG. Nevertheless, the sector. also has the highest potential for removal. The sector. has evolved into a smaller sink over time due to a. decrease in forest lands. The net emissions from the.",
+        "inputs": {
+            "text": "Monitor vehicle fleet-weighted fuel and CO2. efficiency;. Eliminate high emission vehicles;. Establish low carbon fuel standards;. Encourage the introduction of hybrid and. electric vehicles. Land Use, Land-Use Change & Forestry Sub-Sector. The Land Use, Land-Use Change and Forestry. (LULUCF) sub-sector is one of the biggest contributors. to GHG emissions in PNG. Nevertheless, the sector. also has the highest potential for removal. The sector. has evolved into a smaller sink over time due to a. decrease in forest lands. The net emissions from the."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.66
+            ],
+            [
+                "Policies & Plans",
+                0.054
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "a222ce0d-10e2-43b0-adc8-cdf9ce1af5c0",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791602,
+        "metrics": {
+            "text_length": 553
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The poor infrastructure results in freight tariffs being almost four times higher than those in neighbouring countries. Vehicle ownership remains low as a result of the country\u2019s low average income and poor road infrastructure. Most of the vehicles imported are used and old and are therefore inefficient. South Sudan has 248 kilometres of narrow-gauge single-track railway, stretching from Babonosa in north Sudan to Wau. However, the rail network has not been operational since 2009/2010.",
+        "inputs": {
+            "text": "The poor infrastructure results in freight tariffs being almost four times higher than those in neighbouring countries. Vehicle ownership remains low as a result of the country\u2019s low average income and poor road infrastructure. Most of the vehicles imported are used and old and are therefore inefficient. South Sudan has 248 kilometres of narrow-gauge single-track railway, stretching from Babonosa in north Sudan to Wau. However, the rail network has not been operational since 2009/2010."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.704
+            ],
+            [
+                "Action",
+                0.255
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "None"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "a65c1dbb-b557-4667-8f8b-0d4ffb942692",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791608,
+        "metrics": {
+            "text_length": 490
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The successful adoption of energy efficiency programs will require appropriate financing measures to meet greater upfront costs of energy efficient buildings and appliances. These energy efficiency projects will also require external financial support. Grid stabilization and network loss reduction programs will require technology transfer, capacity building, and external financial support. Land transport. Reducing GHG emissions in the land transport sector may be achieved by initially electrifying a percentage of vehicles in Samoa, with an incremental percentage increase each year.",
+        "inputs": {
+            "text": "The successful adoption of energy efficiency programs will require appropriate financing measures to meet greater upfront costs of energy efficient buildings and appliances. These energy efficiency projects will also require external financial support. Grid stabilization and network loss reduction programs will require technology transfer, capacity building, and external financial support. Land transport. Reducing GHG emissions in the land transport sector may be achieved by initially electrifying a percentage of vehicles in Samoa, with an incremental percentage increase each year."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.727
+            ],
+            [
+                "Policies & Plans",
+                0.041
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "aca2490c-de1b-4bf4-b836-84ea111bce25",
+        "metadata": {
+            "file_name": "WSM-second_ndc-EN.html",
+            "country_code": "WSM",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791610,
+        "metrics": {
+            "text_length": 588
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Furthermore, implementation of policies such as mandatory compliance with ESIA will not only mitigate the negative environmental impacts but will also provide social and economic benefits to local communities that live near mine sites. Local employment in the sector can further be strengthened with government efforts to improve the competitiveness of local workers and locally produced goods and services. 7.10 TRANSPORT. 7.10.1 Current status. South Sudan has four main modes of transport \u2013 road, rail, river and air transport.",
+        "inputs": {
+            "text": "Furthermore, implementation of policies such as mandatory compliance with ESIA will not only mitigate the negative environmental impacts but will also provide social and economic benefits to local communities that live near mine sites. Local employment in the sector can further be strengthened with government efforts to improve the competitiveness of local workers and locally produced goods and services. 7.10 TRANSPORT. 7.10.1 Current status. South Sudan has four main modes of transport \u2013 road, rail, river and air transport."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.711
+            ],
+            [
+                "Policies & Plans",
+                0.015
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "b187ec26-3133-4096-8940-c0bd4ae1a4bc",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791608,
+        "metrics": {
+            "text_length": 530
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Potential:Other Development. Partners. Require resource. support (financial,. technical) and. capacity support. Priority Sector: Transport. Quantifiable Target: By 2030, US$1.2b (PGK 4.2b) value of transport infrastructure and assets built / rehabilitated according to climate resilient codes and standards. Action or Activity. Indicator. Status. Lead. Implementing. Agencies. Supporting. Agencies. Time Frame. Budget (USD). Funding Source. (Existing/Potential). Other Support. Quantifiable Target for Air Transport: By 2030, US$90m (PGK 320m) value of 16 airports rehabilitated to international and climate resilient standards. Design and/or manage. the re-habilitation of airports.",
+        "inputs": {
+            "text": "Potential:Other Development. Partners. Require resource. support (financial,. technical) and. capacity support. Priority Sector: Transport. Quantifiable Target: By 2030, US$1.2b (PGK 4.2b) value of transport infrastructure and assets built / rehabilitated according to climate resilient codes and standards. Action or Activity. Indicator. Status. Lead. Implementing. Agencies. Supporting. Agencies. Time Frame. Budget (USD). Funding Source. (Existing/Potential). Other Support. Quantifiable Target for Air Transport: By 2030, US$90m (PGK 320m) value of 16 airports rehabilitated to international and climate resilient standards. Design and/or manage. the re-habilitation of airports."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.502
+            ],
+            [
+                "Policies & Plans",
+                0.008
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "b3c62f58-411b-4e3c-b4e0-0c8decd26ec1",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791602,
+        "metrics": {
+            "text_length": 683
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Samoa Shipping Corporation (SCS). 0.4. Samoa Tourism Authority (STA). 0.4. Samoa Water Authority (SWA). 2.094. Scientific Research Organization of Samoa (SROS). 2.095. Secretariat of the Pacific Regional Environment Programme (SPREP). 0.496. Village Fono (councils). 0.4. GHG mitigation project prioritization. Stakeholders provided feedback on the prioritization of possible GHG mitigation projects, using a score from 1 to 5 (in which 1 indicates they think the project should receive the lowest priority and 5 indicates they think the project should receive the highest priority).",
+        "inputs": {
+            "text": "Samoa Shipping Corporation (SCS). 0.4. Samoa Tourism Authority (STA). 0.4. Samoa Water Authority (SWA). 2.094. Scientific Research Organization of Samoa (SROS). 2.095. Secretariat of the Pacific Regional Environment Programme (SPREP). 0.496. Village Fono (councils). 0.4. GHG mitigation project prioritization. Stakeholders provided feedback on the prioritization of possible GHG mitigation projects, using a score from 1 to 5 (in which 1 indicates they think the project should receive the lowest priority and 5 indicates they think the project should receive the highest priority)."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.736
+            ],
+            [
+                "Policies & Plans",
+                0.017
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "b5155c29-3385-4b8d-a798-24bdb68f0a77",
+        "metadata": {
+            "file_name": "WSM-second_ndc-EN.html",
+            "country_code": "WSM",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791610,
+        "metrics": {
+            "text_length": 583
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Several dolomite deposits were also recorded in large quantities in the district of Torit. These deposits are suitable for processing and manufacturing cement, fertilizer, glass, and flux. Aluminium: The exact extent of the country\u2019s aluminium reserves is not known, but is estimated to be significant, at approximately 9.1 million tonnes. Deposits are found up to the Democratic Republic of the Congo border in conflict zones such as Juba, Raga-Wau-Rumbek and Yambio. Weak road networks and conflicts have constrained access to some of these regions.",
+        "inputs": {
+            "text": "Several dolomite deposits were also recorded in large quantities in the district of Torit. These deposits are suitable for processing and manufacturing cement, fertilizer, glass, and flux. Aluminium: The exact extent of the country\u2019s aluminium reserves is not known, but is estimated to be significant, at approximately 9.1 million tonnes. Deposits are found up to the Democratic Republic of the Congo border in conflict zones such as Juba, Raga-Wau-Rumbek and Yambio. Weak road networks and conflicts have constrained access to some of these regions."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.752
+            ],
+            [
+                "Policies & Plans",
+                0.366
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "b6139b37-9f66-470f-8d80-1f0c6a323c04",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791603,
+        "metrics": {
+            "text_length": 551
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "mitigation contributions in the energy sector, efforts. will be directed towards the energy industries and. transport sub-sectors that will build on existing policy. directives of the implementing agencies. Energy industries, manufacturing industries and. construction account for 5,596 (47 percent) Gg CO2. eq in 201524 and include emissions from on and offgrid. electricity generation and operation of the LNG. plant. The on-grid generation that is managed by. PNG Power Limited (a state-owned entity) and offgrid. generation is from the minerals and agricultural.",
+        "inputs": {
+            "text": "mitigation contributions in the energy sector, efforts. will be directed towards the energy industries and. transport sub-sectors that will build on existing policy. directives of the implementing agencies. Energy industries, manufacturing industries and. construction account for 5,596 (47 percent) Gg CO2. eq in 201524 and include emissions from on and offgrid. electricity generation and operation of the LNG. plant. The on-grid generation that is managed by. PNG Power Limited (a state-owned entity) and offgrid. generation is from the minerals and agricultural."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.69
+            ],
+            [
+                "Policies & Plans",
+                0.066
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "b82dc7ea-68eb-451f-80b7-e6393fec4bc2",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791602,
+        "metrics": {
+            "text_length": 566
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "To strengthen capacity, Suriname will scope and implement a national research, development and innovation program, and strengthen agricultural research. One priority area of research is to identify, trial and introduce more permanent agricultural systems to replace traditional shifting cultivation methods. Transport:An unconditional contribution will be made to update the Transport Master Plan (ISTS 2011). The plan contained a proposal for a transport network based on long term plans and growth rates and integrated with a spatial planning model for Paramaribo.",
+        "inputs": {
+            "text": "To strengthen capacity, Suriname will scope and implement a national research, development and innovation program, and strengthen agricultural research. One priority area of research is to identify, trial and introduce more permanent agricultural systems to replace traditional shifting cultivation methods. Transport:An unconditional contribution will be made to update the Transport Master Plan (ISTS 2011). The plan contained a proposal for a transport network based on long term plans and growth rates and integrated with a spatial planning model for Paramaribo."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.892
+            ],
+            [
+                "Action",
+                0.419
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "be87b76f-075b-4647-a6eb-28d517025337",
+        "metadata": {
+            "file_name": "SUR-second_ndc-EN.html",
+            "country_code": "SUR",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791610,
+        "metrics": {
+            "text_length": 566
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Thus, with the implementation of planned investments and projects, the sector represents increased growth opportunities along with great potential for GHG mitigation (SCP-HAT, 2018). Currently, most of the raw materials required for construction, such as cement and iron sheets, are imported from neighbouring countries such as Kenya and Uganda. Only small-scale manufacturing of construction materials, such as bricks, is carried out by local enterprises in South Sudan. As a result, most of the GHG emissions in the infrastructure sector are embedded emissions in imported products.",
+        "inputs": {
+            "text": "Thus, with the implementation of planned investments and projects, the sector represents increased growth opportunities along with great potential for GHG mitigation (SCP-HAT, 2018). Currently, most of the raw materials required for construction, such as cement and iron sheets, are imported from neighbouring countries such as Kenya and Uganda. Only small-scale manufacturing of construction materials, such as bricks, is carried out by local enterprises in South Sudan. As a result, most of the GHG emissions in the infrastructure sector are embedded emissions in imported products."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.45
+            ],
+            [
+                "Policies & Plans",
+                0.031
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "bfcb753f-1968-4b6f-bede-8893e26517a4",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791603,
+        "metrics": {
+            "text_length": 584
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "The initial support needs for facilitating and creating an enabling environment to implement the LEDS for industry such as capacity building, detailed technical assessments and studies, policy and regulatory measures is estimated at US$ 3.52 million dollars. This enabling activity will result in the full assessment of mitigation potentials in the industries sector and facilitate the participation of the private sector in low emission development. e) Low Emission Development Strategy for Surface Transport.",
+        "inputs": {
+            "text": "The initial support needs for facilitating and creating an enabling environment to implement the LEDS for industry such as capacity building, detailed technical assessments and studies, policy and regulatory measures is estimated at US$ 3.52 million dollars. This enabling activity will result in the full assessment of mitigation potentials in the industries sector and facilitate the participation of the private sector in low emission development. e) Low Emission Development Strategy for Surface Transport."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.382
+            ],
+            [
+                "Action",
+                0.035
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "c4d52990-4a55-4f00-9b01-703d0f1ca1bd",
+        "metadata": {
+            "file_name": "BTN-second_ndc-EN.html",
+            "country_code": "BTN",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791611,
+        "metrics": {
+            "text_length": 510
+        },
+        "search_keywords": null
+    },
+    {
+        "text": ", to industries or households) to ensure the economic feasibility of the process as well as to avoid the release of gas into the atmosphere. Yet to be implemented. Medium to long term. Improve the energy efficiency of the extraction process overall. Measures to reduce energy use at operating sites will be encouraged to reduce emissions. Mandate the use of energy-efficient pumps and gas turbines. Yet to be implemented. Medium term. Decrease amount of fuel consumed in transportation. Yet to be implemented.",
+        "inputs": {
+            "text": ", to industries or households) to ensure the economic feasibility of the process as well as to avoid the release of gas into the atmosphere. Yet to be implemented. Medium to long term. Improve the energy efficiency of the extraction process overall. Measures to reduce energy use at operating sites will be encouraged to reduce emissions. Mandate the use of energy-efficient pumps and gas turbines. Yet to be implemented. Medium term. Decrease amount of fuel consumed in transportation. Yet to be implemented."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.966
+            ],
+            [
+                "Policies & Plans",
+                0.04
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "ca1e4422-bdc8-4323-bb5a-c7786596ad27",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791611,
+        "metrics": {
+            "text_length": 509
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "hydropower of less than 1MW capacity) and solar and wind as renewable energy. Current energy demand satisfied by clean energy sources is well below 15%. The current share of electric vehicles is approximately 1%. The current rail network \u2013a reference not available. Currently, around 5% of households use electric induction stoves, either as their primary or secondary mode of cooking. Industry. Currently, emission standards are not in place for emissions in the brick and cement industries. Waste.",
+        "inputs": {
+            "text": "hydropower of less than 1MW capacity) and solar and wind as renewable energy. Current energy demand satisfied by clean energy sources is well below 15%. The current share of electric vehicles is approximately 1%. The current rail network \u2013a reference not available. Currently, around 5% of households use electric induction stoves, either as their primary or secondary mode of cooking. Industry. Currently, emission standards are not in place for emissions in the brick and cement industries. Waste."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.643
+            ],
+            [
+                "Policies & Plans",
+                0.036
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "None"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "cf4a6094-241a-44c0-bb86-b2f6faf709c5",
+        "metadata": {
+            "file_name": "NPL-second_ndc-EN.html",
+            "country_code": "NPL",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791602,
+        "metrics": {
+            "text_length": 499
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "South Sudan will focus on developing national ambient air quality standards or vehicular emission standards to control the problem of air pollution caused by the transportation sector. These standards can also be used as a measure to regulate the importation of old and inefficient vehicles. Establish exhaust testing centres: vehicles that fail tests by emitting fumes above allowable emissions levels will be subjected to mandatory repairs or scrapped. Yet to be implemented. Short term. Promote high volume transportation.",
+        "inputs": {
+            "text": "South Sudan will focus on developing national ambient air quality standards or vehicular emission standards to control the problem of air pollution caused by the transportation sector. These standards can also be used as a measure to regulate the importation of old and inefficient vehicles. Establish exhaust testing centres: vehicles that fail tests by emitting fumes above allowable emissions levels will be subjected to mandatory repairs or scrapped. Yet to be implemented. Short term. Promote high volume transportation."
+        },
+        "prediction": [
+            [
+                "Policies & Plans",
+                0.978
+            ],
+            [
+                "Action",
+                0.288
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "d37a1341-b51e-4d84-a456-74d626b0a6e5",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791609,
+        "metrics": {
+            "text_length": 525
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Vehicles include bicycles, e-bikes, and e-scooters. This project envisages the introduction of shared e-scooters.\u21a9. To ensure accuracy against GHG emissions reported in 2007, the following sub-sectors have been included under the energy sector:. Electricity. Land transport. Maritime transport. Tourism. Each sub-sector has specific means to achieve the energy sector target.\u21a9. Samoa\u2019s last comprehensive GHG inventory was prepared in 2007. It monitored the years 2000 to 2007 for each sector. Samoa is in the process of updating its GHG inventory to reflect changes since 2007.",
+        "inputs": {
+            "text": "Vehicles include bicycles, e-bikes, and e-scooters. This project envisages the introduction of shared e-scooters.\u21a9. To ensure accuracy against GHG emissions reported in 2007, the following sub-sectors have been included under the energy sector:. Electricity. Land transport. Maritime transport. Tourism. Each sub-sector has specific means to achieve the energy sector target.\u21a9. Samoa\u2019s last comprehensive GHG inventory was prepared in 2007. It monitored the years 2000 to 2007 for each sector. Samoa is in the process of updating its GHG inventory to reflect changes since 2007."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.667
+            ],
+            [
+                "Policies & Plans",
+                0.058
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "d3e822e0-7e49-4c22-9dda-ab3e10a594cc",
+        "metadata": {
+            "file_name": "WSM-second_ndc-EN.html",
+            "country_code": "WSM",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791610,
+        "metrics": {
+            "text_length": 578
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Future job creation potential will remain uncertain if adoption of EVs in South Sudan is largely dependent on imports, with no focus on local market development. Nevertheless, increasing adoption of EVs could have a positive impact on indirect and induced jobs. This is because the use of EVs will require development of adequate transport and electricity infrastructure, which will provide increased employment and career development opportunities (as discussed in the infrastructure (constructions and buildings) and electricity sections).",
+        "inputs": {
+            "text": "Future job creation potential will remain uncertain if adoption of EVs in South Sudan is largely dependent on imports, with no focus on local market development. Nevertheless, increasing adoption of EVs could have a positive impact on indirect and induced jobs. This is because the use of EVs will require development of adequate transport and electricity infrastructure, which will provide increased employment and career development opportunities (as discussed in the infrastructure (constructions and buildings) and electricity sections)."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.372
+            ],
+            [
+                "Policies & Plans",
+                0.015
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Action"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "da678fb8-3ec3-4278-a03e-1986b2db76c2",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791609,
+        "metrics": {
+            "text_length": 541
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Potential:Development Partners. Require human. capacity and. resource support for. implementation. Quantifiable Target for Land Transport (Green Transport): By 2030, US$20m (PGK 6m) value of low-emissions public transport services and infrastructure in urban centers in PNG. PNG green energy transport. project. Objectives: Green Transport. Action Plan linked to. Medium Term Transport. Plan III, Electrified bus. rapid transit systems in. urban centers and climate-. resilient supporting. infrastructure, Implementation. of pilot projects in. Port Moresby and Lae. Draft Green Transport Action. Plan. Feasibility studies conducted.",
+        "inputs": {
+            "text": "Potential:Development Partners. Require human. capacity and. resource support for. implementation. Quantifiable Target for Land Transport (Green Transport): By 2030, US$20m (PGK 6m) value of low-emissions public transport services and infrastructure in urban centers in PNG. PNG green energy transport. project. Objectives: Green Transport. Action Plan linked to. Medium Term Transport. Plan III, Electrified bus. rapid transit systems in. urban centers and climate-. resilient supporting. infrastructure, Implementation. of pilot projects in. Port Moresby and Lae. Draft Green Transport Action. Plan. Feasibility studies conducted."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.704
+            ],
+            [
+                "Policies & Plans",
+                0.011
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": null,
+        "annotation_agent": null,
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "dd6822b0-885e-4870-a262-6e9227ba1999",
+        "metadata": {
+            "file_name": "PNG-second_ndc-EN.html",
+            "country_code": "PNG",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Discarded",
+        "event_timestamp": 1698049791603,
+        "metrics": {
+            "text_length": 632
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "This exercise was conducted using the results of the metabolic assessment along with a few additional parameters. Based on this exercise, as well as on inputs received from key stakeholders in South Sudan, 14 sectors were identified for inclusion in the NDC. These are:. Agriculture, livestock and fisheries. Infrastructure (construction and buildings). Forestry. Biodiversity, ecosystems and sustainable wetland management. Electricity. Water. Waste. Tourism and recreation. Mining and quarrying. Transport. Industry. Petroleum, chemicals and non-metallic mineral products. Health. Disaster risk management.",
+        "inputs": {
+            "text": "This exercise was conducted using the results of the metabolic assessment along with a few additional parameters. Based on this exercise, as well as on inputs received from key stakeholders in South Sudan, 14 sectors were identified for inclusion in the NDC. These are:. Agriculture, livestock and fisheries. Infrastructure (construction and buildings). Forestry. Biodiversity, ecosystems and sustainable wetland management. Electricity. Water. Waste. Tourism and recreation. Mining and quarrying. Transport. Industry. Petroleum, chemicals and non-metallic mineral products. Health. Disaster risk management."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.732
+            ],
+            [
+                "Policies & Plans",
+                0.008
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": null,
+        "annotation_agent": null,
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "f4f9fb02-4280-472a-bb02-352578878c2f",
+        "metadata": {
+            "file_name": "SSD-second_ndc-EN.html",
+            "country_code": "SSD",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Discarded",
+        "event_timestamp": 1698049791603,
+        "metrics": {
+            "text_length": 608
+        },
+        "search_keywords": null
+    },
+    {
+        "text": "Technical and institutional support is needed to introduce new modalities, which includes public-private (investment) partnerships (PPPs), for rural electrification in order to facilitate investment. Transport:A contribution will be made through a number of infrastructure investment projects for improving the road and drainage infrastructure, this includes sea defences infrastructure (grey and green) for Paramaribo, upgrading of roads and canals. The total investment in upgrading the drainage system and flood protection is estimated to reach up to more than 500 million USD.",
+        "inputs": {
+            "text": "Technical and institutional support is needed to introduce new modalities, which includes public-private (investment) partnerships (PPPs), for rural electrification in order to facilitate investment. Transport:A contribution will be made through a number of infrastructure investment projects for improving the road and drainage infrastructure, this includes sea defences infrastructure (grey and green) for Paramaribo, upgrading of roads and canals. The total investment in upgrading the drainage system and flood protection is estimated to reach up to more than 500 million USD."
+        },
+        "prediction": [
+            [
+                "Action",
+                0.297
+            ],
+            [
+                "Policies & Plans",
+                0.022
+            ]
+        ],
+        "prediction_agent": "7fdf834b6af3",
+        "annotation": [
+            "Policies & Plans"
+        ],
+        "annotation_agent": "cpu_annotator",
+        "vectors": null,
+        "multi_label": true,
+        "explanation": null,
+        "id": "fd335e62-72f5-4157-b4be-9d8cf1a1657e",
+        "metadata": {
+            "file_name": "SUR-second_ndc-EN.html",
+            "country_code": "SUR",
+            "type_of_document": "Second NDC"
+        },
+        "status": "Validated",
+        "event_timestamp": 1698049791609,
+        "metrics": {
+            "text_length": 580
+        },
+        "search_keywords": null
+    }
+]

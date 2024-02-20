@@ -2,10 +2,12 @@ import setuptools
 
 
 install_requires=[
-        "streamlit==1.21.0",
+        "streamlit==1.31.0",
         "plotly==5.19.0",
         "xlsxwriter==3.2.0",
         "streamlit-aggrid==0.3.4",
+        "altair<5",
+        "pydantic==1.8.2"
 ]
 
 

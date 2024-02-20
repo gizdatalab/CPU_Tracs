@@ -1,0 +1,8 @@
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz#egg=en_core_web_sm
+git+https://github.com/gizdatalab/haystack_utils.git@cputrac#egg=utils
+altair<5
+streamlit==1.31.0
+pydantic==1.8.2
+plotly==5.19.0
+xlsxwriter==3.2.0
+streamlit-aggrid==0.3.4

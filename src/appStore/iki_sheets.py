@@ -47,11 +47,10 @@ def netzero_display():
 
             c1, c2 = st.columns([1,1])
             with c1:
-                st.write('**Target Paragraphs**: `{}`'.format(count_target))
-            with c2:
                 st.write('**NetZero Related Paragraphs**: `{}`'.format(count_netzero))
+                
             st.write('----------------')
-            st.dataframe(hits[['keep','text','Parameter','page']])
+            #st.dataframe(hits[['keep','text','Parameter','page']])
         else:
             st.info("🤔 No Netzero paragraph found")
             
@@ -73,20 +72,6 @@ def targets():
         if all([x['Energy'],not x['ConditionalLabel'],x['GHGLabel']]):
                 temp.append('T_Energy_Unc')
             
-        # NonGHG Target    
-        if all([x['Transport'],x['ConditionalLabel'],x['NonGHGLabel'],x['MitigationLabel']]):
-                temp.append('T_Transport_O_C')
-        if all([x['Transport'],not x['ConditionalLabel'],x['NonGHGLabel'],x['MitigationLabel']]):
-                temp.append('T_Transport_O_Unc')
-        if all([x['Economy-wide'],x['ConditionalLabel'],x['NonGHGLabel'],x['MitigationLabel']]):
-                temp.append('T_Economy_O_C')
-        if all([x['Economy-wide'],not x['ConditionalLabel'],x['NonGHGLabel'],x['MitigationLabel']]):
-                temp.append('T_Economy_O_Unc')
-        if all([x['Energy'],x['ConditionalLabel'],x['NonGHGLabel'],x['MitigationLabel']]):
-                temp.append('T_Energy_O_C')
-        if all([x['Energy'],not x['ConditionalLabel'],x['NonGHGLabel'],x['MitigationLabel']]):
-                temp.append('T_Energy_O_Unc')
-
         # NonGHG Target    
         if all([x['Transport'],x['ConditionalLabel'],x['NonGHGLabel'],x['MitigationLabel']]):
                 temp.append('T_Transport_O_C')
@@ -133,13 +118,13 @@ def target_display():
 
             c1, c2 = st.columns([1,1])
             with c1:
-                st.write('**Target Paragraphs**: `{}`'.format(count_target))
+                st.write('**Target Related Paragraphs**: `{}`'.format(count_target))
                 st.write('**Transport Target Related Paragraphs**: `{}`'.format(count_transport))
             with c2:
                 st.write('**GHG Target Related Paragraphs**: `{}`'.format(count_ghg))
                 st.write('**NonGHG Target Related Paragraphs**: `{}`'.format(count_nonghg))
             st.write('----------------')
-            st.dataframe(hits[['keep','text','Parameter','page']])
+            #st.dataframe(hits[['keep','text','Parameter','page']])
         else:
             st.info("🤔 No Targets Found")
 
@@ -178,13 +163,13 @@ def mitigation_display():
 
             c1, c2 = st.columns([1,1])
             with c1:
-                st.write('**Mitgation Paragraphs**: `{}`'.format(count_mitigation))
+                st.write('**Transport Mitgation Related Paragraphs**: `{}`'.format(count_mitigation))
                 st.write('**Transport Action Related Paragraphs**: `{}`'.format(count_action))
             with c2:
                 st.write('**Transport Policy Related Paragraphs**: `{}`'.format(count_policy))
                 st.write('**Transport Plans Related Paragraphs**: `{}`'.format(count_plans))
             st.write('----------------')
-            st.dataframe(hits[['keep','text','Parameter','Type','page']])
+            #st.dataframe(hits[['keep','text','Parameter','Type','page']])
         else:
             st.info("🤔 No Tranport  Mitigation paragraph found")
 
@@ -207,7 +192,7 @@ def adaptation_display():
                           .format(os.path.basename(st.session_state['filename']),
                                  len(st.session_state['key0'])))   
         
-        hits  = st.session_state['mitigation_hits']
+        hits  = st.session_state['adaptation_hits']
         if len(hits) !=0:
             # collecting some statistics
             count_adaptation = sum(hits['AdaptationLabel'] == True)
@@ -217,13 +202,13 @@ def adaptation_display():
 
             c1, c2 = st.columns([1,1])
             with c1:
-                st.write('**Adaptation Paragraphs**: `{}`'.format(count_adaptation))
+                st.write('**Transport Adaptation Related Paragraphs**: `{}`'.format(count_adaptation))
                 st.write('**Transport Action Related Paragraphs**: `{}`'.format(count_action))
             with c2:
                 st.write('**Transport Policy Related Paragraphs**: `{}`'.format(count_policy))
                 st.write('**Transport Plans Related Paragraphs**: `{}`'.format(count_plans))
             st.write('----------------')
-            st.dataframe(hits[['keep','text','Type','page']])
+            #st.dataframe(hits[['keep','text','Type','page']])
         else:
             st.info("🤔 No Tranport  Adaptation paragraph found")
     
